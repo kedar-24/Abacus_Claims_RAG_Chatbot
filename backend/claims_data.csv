@@ -1,0 +1,1001 @@
+claim_id,date,patient_id,patient_name,provider_name,specialty,diagnosis,treatment_description,claim_amount,status,denial_reason
+04c4c1e0-4882-4d7f-be04-301412733b5d,2025-05-23,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Hammond,Dermatology,Acne,Treatment for Acne,2173.57,Pending,N/A
+3acab368-e334-436c-93f3-fbcfd129b2ab,2025-10-04,1bd96d68-9064-45c8-8f3f-9d06f4abab09,Misty Jones,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,1910.79,Pending,N/A
+6523b7fa-0496-4328-96b7-b356cb456656,2025-01-16,f5a881b6-fca3-4397-946d-eefd4570d436,Glen Ryan,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,2992.2,Approved,N/A
+c8405b0b-65dc-43c7-9569-70f5020aee2e,2025-07-17,ebc55fdb-362d-40dc-bf5b-2f63ad0ead9d,David Mclaughlin,Dr. Smith,General Practice,Flu,Treatment for Flu,1147.83,Approved,N/A
+94d6c279-c0a9-4d4f-9f0f-aa22c579d108,2025-08-22,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3222.47,Denied,Service Not Covered
+b45cec3a-f217-4a35-a9b8-18f520a42995,2025-10-19,0248a7eb-4151-4db5-b474-81157e9d270a,Heather Franco,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,1055.81,Approved,N/A
+00864a91-d8c7-4c7a-969d-c3a8c93696c1,2025-03-12,9fde7ec1-3cc2-43ce-8f47-876438cc02a5,Scott Logan,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3896.17,Denied,Incorrect Coding
+bbcd3e7d-c106-4162-ad11-3d2ac3e0c047,2025-08-09,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,296.17,Approved,N/A
+a53574b4-12e8-467b-839b-a9a018ccf848,2025-04-14,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,3199.62,Approved,N/A
+9a51c04d-0c37-4a38-bba1-69d364e0ac3e,2024-12-30,c8a552e5-d135-4249-8ebd-98db998a75dc,Lee Silva,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,1623.43,Approved,N/A
+dc0028b9-4db1-4290-834e-8331589a9da7,2025-08-25,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,3544.04,Approved,N/A
+f999ba18-9cde-4d01-bce1-7222b77e2a48,2025-05-09,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Durham,General Practice,Back Pain,Treatment for Back Pain,999.15,Approved,N/A
+1535e56b-4e1c-49a3-961c-d2c1c57110c6,2025-11-28,62ceccd5-933d-4c42-acb1-c7f11e293b50,James Patterson,Dr. Smith,General Practice,Flu,Treatment for Flu,2452.04,Denied,Duplicate Claim
+13a20cb1-16d3-4df0-ad12-212b06e9697a,2025-08-06,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Howard,Oncology,Melanoma,Treatment for Melanoma,531.06,Approved,N/A
+098f7d05-f4b2-4171-949a-cedfc6c7c1d5,2025-10-30,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,2726.29,Approved,N/A
+0995afab-51dd-4471-842b-bf9a3df23edd,2024-12-24,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,1684.23,Denied,Incorrect Coding
+759131e7-0c46-4288-8436-a3f109da3e3d,2025-11-20,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,659.02,Approved,N/A
+7c6d9ef4-9709-448b-ab6a-eea6f1ede20a,2025-09-26,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,1690.71,Approved,N/A
+53740a80-ddd8-4783-845f-6e95988517d6,2025-11-26,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,4923.84,Approved,N/A
+81a8580b-d019-48fb-bd41-ae34025c8242,2025-11-14,c3a00ca8-f30d-4a52-b428-b48f4bb917d1,Michelle Crawford,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4788.27,Denied,Pre-auth Missing
+8c823770-94e0-4666-9aa3-02e07cb36ea6,2025-03-29,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,3115.61,Pending,N/A
+ec5949c7-0132-4206-b6eb-762151414455,2025-07-09,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,4821.68,Approved,N/A
+1e1c0c7e-3459-4262-af27-dc0edcb7018c,2025-09-29,2bd4c3cd-e76f-472d-822e-1eed8e7b97c2,David Payne,Dr. Moore,Pediatrics,Asthma,Treatment for Asthma,1311.39,Denied,Incorrect Coding
+93573bd8-b567-485f-87cd-508ceebf46e4,2025-07-03,90b37681-dc74-4c19-b961-04935f386dcd,Kevin Vincent,Dr. Perry,Cardiology,Hypertension,Treatment for Hypertension,3727.11,Approved,N/A
+fde81685-f6cc-4fbd-9fa7-f469e63a09db,2025-11-25,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3510.09,Denied,Incorrect Coding
+c1806c60-bef2-48dc-b48c-b7e442fc03a0,2025-07-02,20749cee-7873-45d1-818f-646d394d6f21,Kathryn Montgomery,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,4832.06,Pending,N/A
+dfb6633a-2c72-4602-abfd-0201fc57f039,2025-05-20,6953cd5c-5109-47b0-ba5d-7eddca3874fb,James Leonard,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,1975.22,Approved,N/A
+5c262f29-0746-4a15-b48e-e1d4e5af7096,2025-11-05,b74827f3-3471-4c7f-8557-7aba64510f28,Michael Hensley,Dr. Mendez,Dermatology,Psoriasis,Treatment for Psoriasis,3358.06,Approved,N/A
+583daae2-f4ec-4b97-ac4e-c523e7b86f79,2025-08-17,57582b71-8473-4691-8efc-4d87b50a2c31,Eric Gibbs,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,2649.3,Pending,N/A
+ffadfd56-6425-4bb8-932e-33a7b4ca937a,2025-07-28,6953cd5c-5109-47b0-ba5d-7eddca3874fb,James Leonard,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,651.57,Approved,N/A
+ddc4ece2-2359-451d-b852-16171068fe32,2025-04-23,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,4955.74,Approved,N/A
+e438853f-af8e-457c-9756-0ae445fb45c7,2025-02-14,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,4299.77,Denied,Incorrect Coding
+a858679c-5408-4901-a863-9dc69e5de16d,2025-03-08,c8a552e5-d135-4249-8ebd-98db998a75dc,Lee Silva,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,1313.5,Approved,N/A
+17948e46-d4fe-419a-ab40-493a12d51e1f,2025-07-04,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,1701.74,Denied,Pre-auth Missing
+962e32e9-a224-49eb-9156-7811819d5f7c,2025-02-21,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,2429.98,Denied,Duplicate Claim
+683f0138-b8fa-4b06-a961-bdcffc142e15,2025-12-05,f5544778-b84e-4546-b145-7672edecd3a4,Kelly Moore,Dr. Doyle,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2629.7,Denied,Incorrect Coding
+0071df96-8c99-4a95-b476-310ee59a5a82,2025-10-16,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Avila,General Practice,Flu,Treatment for Flu,220.31,Approved,N/A
+0a898a48-7cd1-4055-9339-706c01ad4b93,2025-02-07,98858956-74e9-447d-93b7-492c889ff1c2,Kari Bishop,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,4636.19,Approved,N/A
+626ac69c-7e44-4eae-a8a8-68288378b6b0,2025-10-17,6e06a467-7b55-4c6a-bb52-dee403193a70,Jessica Mcdaniel,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,1511.85,Approved,N/A
+0c170561-9f58-47a0-8507-6eb07eff5a6c,2025-07-03,2ed3ca24-225b-49b8-8659-2064d2785455,Amy Stout,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,2129.95,Denied,Incorrect Coding
+367ca7b3-b3d3-4167-b22d-a0585c552537,2025-02-07,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,823.66,Denied,Service Not Covered
+5bd27f24-59af-490e-8973-33a0037e6a11,2025-06-27,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,2234.87,Approved,N/A
+c00a79ad-52b8-42f8-8451-f27bb37e1e41,2025-09-27,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,2569.09,Pending,N/A
+bf415168-6ace-4380-9ff3-21b3f3829c4e,2024-12-27,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,2660.38,Approved,N/A
+89e2cb35-ba39-4e62-8245-84c4fc898800,2025-03-30,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,2279.5,Approved,N/A
+6e0997a6-9571-43cb-85b7-e985ac50a53e,2025-08-28,8f8baea9-3cd7-4599-9568-6199215e37d1,Daniel Garcia,Dr. Perry,Dermatology,Acne,Treatment for Acne,3160.8,Approved,N/A
+030047e6-cbad-4bdd-98a2-ac19913669bd,2025-05-27,e2388d39-9394-46e2-8911-7cb55571c5b6,Thomas Fisher,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,1293.11,Denied,Incorrect Coding
+7e92eb72-2960-4cfa-b06e-cde24c784842,2025-05-07,02649d6b-f45a-4757-8884-1764080448e8,Vicki Horn,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,4944.33,Denied,Duplicate Claim
+cd9d905e-02e2-4eca-9588-fbe83ab7c6a8,2025-08-13,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Smith,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1653.08,Approved,N/A
+17af0855-ef03-41f3-84e3-80af49f11422,2025-10-07,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,1140.5,Pending,N/A
+ff275580-faf7-447a-996b-03a73f852a7b,2025-06-14,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Lowery,Dermatology,Acne,Treatment for Acne,636.82,Approved,N/A
+265addb3-894d-4ad9-b5c8-505b02cdb275,2025-07-19,8b090a14-b36a-4d41-ad4c-7141e19f29ed,Philip Valenzuela,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4424.48,Denied,Duplicate Claim
+ad9213e4-b0e6-476a-b451-186f702e378a,2025-06-18,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,3926.91,Approved,N/A
+09c535bd-f5af-43aa-a5d1-918c359d8c3d,2025-02-22,15e1afa2-8518-4894-9a24-d20acbd21507,Michael Woods,Dr. Garcia,Dermatology,Acne,Treatment for Acne,3615.34,Denied,Duplicate Claim
+01936f5e-c69e-4116-9de3-d5159722b098,2024-12-18,f5a881b6-fca3-4397-946d-eefd4570d436,Glen Ryan,Dr. Shaw,General Practice,Flu,Treatment for Flu,4771.08,Pending,N/A
+b8e3aba2-b63f-40b0-a147-0a6e9abacf10,2025-04-21,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,4683.74,Denied,Service Not Covered
+2e52b641-fdd9-4f41-ab3d-32db2dbda2ca,2025-10-14,b797887c-a97d-42b6-8522-60c554aef600,Amy Lopez,Dr. Hammond,Dermatology,Acne,Treatment for Acne,879.41,Approved,N/A
+c421b4a0-354b-4e8e-aa88-4eb92cfa9081,2025-02-18,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,3900.6,Approved,N/A
+fe6a604d-2cba-4e36-ac7e-4fdf1296540f,2024-12-10,e2388d39-9394-46e2-8911-7cb55571c5b6,Thomas Fisher,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,1068.84,Denied,Service Not Covered
+6d08a7b3-d104-4785-8089-bd1cd7a00e83,2025-03-16,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Patton,General Practice,Flu,Treatment for Flu,4776.5,Pending,N/A
+e41481b3-b0e3-40ed-a157-7221013fe478,2025-07-14,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,2216.26,Pending,N/A
+63c2c586-b608-4ec5-b398-036211f79623,2025-08-15,ec8ecf70-7851-4405-941a-2bdd6a0f35ab,Lisa Mcgee,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,1130.58,Approved,N/A
+57f5595d-a382-4ed3-881d-4db11eb978fb,2025-09-04,295c5d80-13a3-43c0-9541-54f55db680d7,Todd Smith,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,2684.96,Approved,N/A
+ef6e710e-5949-4903-8306-da6461b50ef1,2025-01-11,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,981.39,Denied,Service Not Covered
+6c7b53c3-3ea1-42cb-96c0-f0c87db8a2ec,2025-01-11,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,2773.5,Approved,N/A
+dd0e6598-254c-4145-80e5-2e548d97534d,2025-07-03,668ed24f-53cd-4348-b971-77769ee8bc0d,Paul Wood,Dr. Lowery,Dermatology,Eczema,Treatment for Eczema,1950.26,Pending,N/A
+73d75af6-6b13-4476-8f13-45233af928de,2025-06-17,57582b71-8473-4691-8efc-4d87b50a2c31,Eric Gibbs,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,2372.85,Pending,N/A
+f2b26407-20cd-4a96-a884-a37d2a24a598,2025-07-27,df23240d-5098-402a-a4e3-4ae62e311b37,Brooke Keller,Dr. Avila,General Practice,Flu,Treatment for Flu,1158.25,Approved,N/A
+66ccf06a-fb25-4564-803d-3160269235a1,2025-11-02,5094bdf2-3332-4122-8b00-54d0ec9dd192,Derrick Smith,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,3824.75,Denied,Pre-auth Missing
+2bc1ed0c-dd4b-4aa1-bbc1-50c49205420b,2025-06-24,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,4223.74,Denied,Service Not Covered
+02d524bd-94ce-41bf-830d-46310dcb533c,2025-09-11,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,293.73,Approved,N/A
+3686fe25-f18b-4a44-b0d3-4e57da515d4f,2025-07-19,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Lowery,Dermatology,Acne,Treatment for Acne,2167.36,Pending,N/A
+b427ae97-4fc9-4466-9393-51b4761af8e7,2025-12-02,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,1426.6,Denied,Incorrect Coding
+15319acd-135b-4a56-bb7c-8e76f614b85a,2025-01-07,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,403.99,Approved,N/A
+c9790113-3442-4855-8bf7-529bf112a3b3,2025-07-20,ffcb4780-f870-495e-a87c-c61c23e5b0c1,James Barajas MD,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4740.14,Approved,N/A
+f19932e6-1211-445e-aa31-804134eb805a,2025-10-31,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,2506.64,Approved,N/A
+039a3eb0-faaa-44b6-80a8-d55114e24da5,2025-02-08,f5a881b6-fca3-4397-946d-eefd4570d436,Glen Ryan,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,3454.18,Approved,N/A
+2ae58654-d7b0-477f-b413-887bfff1ed73,2025-06-09,ec8ecf70-7851-4405-941a-2bdd6a0f35ab,Lisa Mcgee,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,923.15,Approved,N/A
+0730eac3-0e88-4fd9-8ab6-4addb477881f,2025-06-30,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Myers,Dermatology,Acne,Treatment for Acne,3157.23,Approved,N/A
+8f3f1cdf-7251-4699-85f1-19494e6575bf,2025-12-06,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,524.32,Approved,N/A
+69c0333d-ffdb-46a2-991c-76e6571aa4d5,2025-09-04,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,538.89,Approved,N/A
+b24df2c5-2f80-4091-b968-b2f8e1f06edb,2025-10-31,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Smith,General Practice,Flu,Treatment for Flu,3652.65,Approved,N/A
+c31fff55-b91a-4870-92d7-66ed674a9bdf,2025-02-12,14b44f62-2807-4c62-9df7-ce92308e4fb7,Heather Wilson,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,921.16,Denied,Pre-auth Missing
+5cd1c884-bbfa-45e7-8da1-7ca2ea4fdc2e,2025-11-15,63bf8669-2210-43f8-a236-f61816cedc6f,Charles Alexander,Dr. Doyle,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,1959.01,Approved,N/A
+9d2beb80-4a73-431f-8e1a-c3822d99616c,2025-06-11,6e9a51a2-d1db-4473-9b14-e7459717ded8,Leonard Allen,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,1873.71,Approved,N/A
+3df0b3bc-16c5-430b-884d-4b8e9deffa54,2025-11-26,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,1529.3,Denied,Incorrect Coding
+95108a8a-7bea-443e-b011-10c522310e8b,2025-07-20,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Smith,General Practice,Flu,Treatment for Flu,1083.51,Denied,Pre-auth Missing
+9b687e0a-a071-4ba2-a290-db58d1ff4a06,2025-08-24,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,1972.69,Denied,Duplicate Claim
+f9ba8b6e-af7a-45f4-bfe6-136708d0e26c,2025-09-22,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Smith,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3356.74,Approved,N/A
+9df0dbcb-1cfd-4595-ae39-d3d083cc6d5a,2025-05-13,63bf8669-2210-43f8-a236-f61816cedc6f,Charles Alexander,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,3924.32,Approved,N/A
+b51c0253-00e9-4011-98ad-080607ef0515,2025-01-22,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,812.67,Approved,N/A
+11933a32-11b6-4dbe-b962-d417cc4c21cc,2025-01-01,3c997bdc-28f2-41e3-9fe4-d775661b45da,James Lopez,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,2895.75,Pending,N/A
+47628bd3-d0ac-4122-9211-43f3491629b7,2025-01-11,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Lewis,Dermatology,Eczema,Treatment for Eczema,908.78,Approved,N/A
+c800ae5c-dd66-4df6-9697-404329de0d7d,2025-02-18,ebc55fdb-362d-40dc-bf5b-2f63ad0ead9d,David Mclaughlin,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,3459.39,Approved,N/A
+5bd9e2af-c2b6-4841-8c16-c9782a1d2a61,2025-02-13,02877fa7-0cec-4b07-8cb8-93b243f080b0,Jeffrey Hobbs,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4971.65,Approved,N/A
+fe26a095-e40c-4a3b-83db-9724f3b4ecb0,2025-07-04,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4355.48,Denied,Duplicate Claim
+84a38748-3339-4423-8254-33cebd08a687,2025-10-31,81d2beda-a354-4bcf-ac40-5f79ffb583de,William Murphy,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,3097.85,Denied,Duplicate Claim
+4d78aad0-d2ed-46fa-a46b-4b1f071b2eda,2025-10-26,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Roberts,Dermatology,Acne,Treatment for Acne,3122.18,Denied,Duplicate Claim
+2f60bbc4-2959-4277-91d0-3d569453d1d6,2025-01-29,8a7f78fd-011f-45df-b3ab-aa8afd29f893,Sarah Brennan,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,1047.64,Approved,N/A
+6af14bc2-fb06-4b5a-a722-43afcaf2edb5,2025-11-21,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,2969.42,Pending,N/A
+01d86787-ae70-4299-8c8f-2178833eb83f,2025-06-10,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,1138.54,Approved,N/A
+46949762-6fb8-4611-99df-1678b2d3cca5,2025-10-25,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,2924.88,Approved,N/A
+5488b8bd-f6aa-45e7-9971-c20692393b2f,2025-05-10,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3199.89,Approved,N/A
+28af7824-18de-46f4-a716-9b7a62568b91,2025-08-01,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,474.92,Approved,N/A
+20e44388-99a4-4202-bcfb-533a4fd14ab3,2025-09-27,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Meyer,General Practice,Flu,Treatment for Flu,2429.07,Approved,N/A
+5e78f45d-c4ef-4061-8c55-a2c623aa31ce,2025-10-19,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Lewis,Dermatology,Acne,Treatment for Acne,3235.41,Approved,N/A
+0e84cc93-6261-44be-8bf8-f7b50035bfe9,2025-03-02,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Terry,Pediatrics,Chickenpox,Treatment for Chickenpox,1465.42,Approved,N/A
+6f3fd08a-606b-43d1-9360-dc93b0173f94,2025-01-29,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Torres,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,814.47,Approved,N/A
+fd85a3b5-6a74-49fa-a04d-3329f5f83304,2025-07-14,df23240d-5098-402a-a4e3-4ae62e311b37,Brooke Keller,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,1277.18,Approved,N/A
+ce85996f-20cb-41ed-a91e-fe59022bb058,2025-06-09,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4850.95,Approved,N/A
+d6346b1e-bf7a-4ed9-82c5-c9e367e5dd01,2025-12-06,3d156d58-7f44-447c-8e5b-cfa1d7a2e618,Michael Lee,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,4432.45,Approved,N/A
+8ad416dd-f3f2-4341-855f-2bb42fb585f3,2025-07-01,6e06a467-7b55-4c6a-bb52-dee403193a70,Jessica Mcdaniel,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,1529.92,Pending,N/A
+061e2d15-9eb6-4d26-bbf6-e97452a7ab21,2025-05-31,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Roberts,Dermatology,Psoriasis,Treatment for Psoriasis,4315.84,Denied,Service Not Covered
+6228e40e-3062-4ee6-86c2-3aa189736dc7,2025-03-10,8e6bb570-aef6-48e0-9fbd-4c0c0647e3b6,Nathaniel Tran,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,521.37,Pending,N/A
+9266de92-0f1c-4b45-ace1-1b5e07cb507a,2025-01-07,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,3810.55,Approved,N/A
+82a81398-fa7a-40da-bccd-6abcf28ae951,2025-09-11,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Marshall,Dermatology,Eczema,Treatment for Eczema,1903.43,Pending,N/A
+72253ff7-ca07-4865-b5d9-247519ecdacf,2025-07-11,7728494b-87de-4941-9e94-2f46270aa25b,Jose Johnson,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,4673.35,Approved,N/A
+fe869028-8d5b-4bf7-a5e3-3177e5b3d218,2025-08-25,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Cooper,General Practice,Flu,Treatment for Flu,698.13,Denied,Service Not Covered
+3460a917-fe36-461d-ab7c-ea3331282760,2025-08-23,57582b71-8473-4691-8efc-4d87b50a2c31,Eric Gibbs,Dr. Lewis,General Practice,Flu,Treatment for Flu,1212.1,Approved,N/A
+24a506f4-eb2a-4465-83b2-cc26ae40b33a,2025-05-10,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Hammond,Dermatology,Acne,Treatment for Acne,3295.45,Denied,Service Not Covered
+3550b64b-13ff-497a-9386-dfba930e8328,2025-07-12,635fffad-ae51-47ef-9cc3-cb55a4578a99,Angela Rojas,Dr. Mendez,Dermatology,Acne,Treatment for Acne,2056.62,Denied,Incorrect Coding
+ff0d522a-bc4e-4d30-b8d6-14eca24f65a8,2025-09-27,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,2552.28,Denied,Duplicate Claim
+7a6eb957-8676-43cd-8590-f3f940e16085,2025-02-04,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,4388.08,Approved,N/A
+ca168491-b904-41f2-9ee4-6d1b837641d3,2025-09-27,6e06a467-7b55-4c6a-bb52-dee403193a70,Jessica Mcdaniel,Dr. Lowery,Dermatology,Psoriasis,Treatment for Psoriasis,3660.88,Approved,N/A
+1d466d85-dd71-4979-baf1-93aa617a5134,2025-08-16,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1905.09,Approved,N/A
+079eddbc-2e83-44bc-9b56-c90cb6c09db7,2025-07-12,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,875.79,Pending,N/A
+a3c7c791-7232-4670-a876-32ecc37ad2ac,2025-03-19,3d156d58-7f44-447c-8e5b-cfa1d7a2e618,Michael Lee,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,945.67,Denied,Service Not Covered
+a64d3857-7145-4df0-bf14-bd2a347cb288,2025-03-26,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Mendez,Dermatology,Acne,Treatment for Acne,1050.81,Approved,N/A
+a3da21fe-6c11-4143-b8b7-70074e48bd27,2025-10-25,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Roberts,Dermatology,Acne,Treatment for Acne,2934.72,Approved,N/A
+4b7d6bf0-03aa-4f60-ab04-c6c4118f16ca,2025-11-18,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Perry,Dermatology,Acne,Treatment for Acne,2304.69,Approved,N/A
+010c044e-4877-4b56-97ba-dca3fa33a1b4,2025-01-17,98858956-74e9-447d-93b7-492c889ff1c2,Kari Bishop,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,2486.56,Approved,N/A
+2f53c17a-4386-4a94-98b5-b7bb8ab9cec9,2025-04-12,ebc71dfa-7e5a-44b3-ab55-d1ea8bc169de,Dr. Duane Terrell DDS,Dr. Howard,Oncology,Melanoma,Treatment for Melanoma,1523.9,Approved,N/A
+507a95b4-9016-49b3-b8d3-2797e9158c85,2025-08-13,06b443cb-b0fb-411e-b753-0e3cf747d696,Melissa Pacheco,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,4454.66,Approved,N/A
+d8c8ab85-a905-451a-9ebe-dbf80ede20eb,2025-04-29,1134694f-7e56-41a4-9eca-978d61128936,Barbara Byrd,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,3356.91,Approved,N/A
+db48fafe-88d3-4293-aefc-70a39e5f3586,2025-03-22,088d8c42-4b60-4022-8cf5-cb92a088e025,Mark Ross,Dr. Garcia,Dermatology,Acne,Treatment for Acne,3247.17,Approved,N/A
+2486ef6e-fa9e-44af-9561-ef38539e9681,2025-05-25,437641a5-8fb0-4828-95ef-a3175fbb3fb5,Adam Bradley,Dr. Lewis,General Practice,Flu,Treatment for Flu,561.17,Denied,Pre-auth Missing
+9369afae-49ec-475f-97ab-9e8c48fdbf59,2025-11-11,3698182a-f043-4c72-8bd4-bd8936982d0e,Mr. William Thomas,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,2291.54,Denied,Service Not Covered
+ebbca38a-a8e0-4bc4-8e54-609976cb6efd,2025-04-13,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Lewis,General Practice,Flu,Treatment for Flu,3682.78,Denied,Incorrect Coding
+d920dede-aee5-425e-9e59-c7a9b19195f5,2025-05-09,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Marshall,Dermatology,Eczema,Treatment for Eczema,3111.87,Pending,N/A
+0fe93e66-00af-49f0-a6b6-087c4f251bde,2025-01-24,79716028-8f74-49b2-98cb-9fbeabd0e0e0,Kenneth Hardin,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,1667.88,Approved,N/A
+ec05d1b0-229b-49e9-8d94-8286da77aabb,2025-10-22,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Perry,Dermatology,Acne,Treatment for Acne,4005.95,Denied,Service Not Covered
+82e57eaa-f56b-47bf-bd73-c93c85d8b914,2025-09-25,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,1260.55,Approved,N/A
+716ee12e-2451-4a36-b937-218ce9b41ef2,2025-11-10,02649d6b-f45a-4757-8884-1764080448e8,Vicki Horn,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,3512.37,Approved,N/A
+e7b10bd4-4677-44b0-a934-9e2dc785c153,2025-08-16,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Farley,Dermatology,Psoriasis,Treatment for Psoriasis,2704.1,Denied,Incorrect Coding
+4b7abaad-15af-49b2-8e4f-a6b9803fe12e,2025-11-28,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,1674.95,Approved,N/A
+7592d0b6-dd83-4d75-bd70-e70759b9f6ff,2025-09-19,17e4d24f-3b81-43a8-bc55-d512e23b4101,John Perkins,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,2594.29,Denied,Duplicate Claim
+47375a75-ad25-48d3-b284-1d5abc6c43ff,2025-08-09,49a64081-b6c5-4903-8f1e-ab2113a6c33c,Eric Ortiz,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,1262.06,Approved,N/A
+8a4cc385-f9bd-4e01-ba68-1d39529e3089,2025-05-15,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Smith,General Practice,Flu,Treatment for Flu,2674.14,Denied,Incorrect Coding
+5c35fce8-0bf5-4e71-864a-7622bacdf488,2025-04-22,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,308.2,Approved,N/A
+c8fa0539-4434-4bf0-88a7-7061469cb3a9,2025-07-08,20749cee-7873-45d1-818f-646d394d6f21,Kathryn Montgomery,Dr. Farley,Dermatology,Psoriasis,Treatment for Psoriasis,4118.15,Approved,N/A
+5a7f43ae-6310-4569-9462-1cf0058407ee,2025-05-09,3cd4a8c7-e3dc-4969-946c-93031aebe651,Shawn James,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3162.44,Denied,Incorrect Coding
+1215b0af-d3c8-465f-9b56-35de583368b1,2025-06-01,451486d7-aae9-46f0-a03a-82c9e416bef1,Audrey Stewart,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,4552.02,Approved,N/A
+042988f9-2aa4-4e46-8ded-f934719d1d89,2025-04-18,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,2470.46,Pending,N/A
+cc141bd9-eee9-46e6-a872-fc6f01d73807,2025-07-03,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Lewis,Dermatology,Acne,Treatment for Acne,1077.52,Approved,N/A
+c32f3494-ad1d-41cd-a38f-f86086a042b4,2025-05-06,aac81d0c-b39d-4829-b59b-cbc3bccc56e0,Stephanie Hicks,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,2819.69,Approved,N/A
+4dd8fb8a-ea18-447c-ad74-bb7e98c79091,2025-01-05,b74827f3-3471-4c7f-8557-7aba64510f28,Michael Hensley,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,3928.96,Denied,Pre-auth Missing
+20146518-c17d-4f7e-978c-7499736401cb,2025-02-19,41733b16-5b06-4239-a222-8745201e40a7,Timothy Hill,Dr. Vang,Dermatology,Psoriasis,Treatment for Psoriasis,2367.24,Denied,Incorrect Coding
+842632b9-6536-488b-8d29-243755b072bc,2025-03-11,8f64017a-6394-47b4-908e-fc25ee56f3a8,Nathan Jones,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,750.22,Approved,N/A
+a84a8dd4-6f6c-45ad-bdb4-eaf56da407c3,2025-07-09,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Walter,General Practice,Flu,Treatment for Flu,417.4,Approved,N/A
+2e141e0e-e3e7-4dc0-8b30-16cc5703a413,2025-07-16,15e1afa2-8518-4894-9a24-d20acbd21507,Michael Woods,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,847.92,Denied,Duplicate Claim
+ad58c198-c0ea-4784-b695-b433fe67b066,2025-06-06,57582b71-8473-4691-8efc-4d87b50a2c31,Eric Gibbs,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,3740.97,Approved,N/A
+5667b119-7f8b-43a3-a8c7-efc77811d009,2025-06-15,bd96fd01-c866-4e33-916f-fda31c2c57d4,Luke Hawkins,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,556.42,Approved,N/A
+c69abd4f-b045-4848-9525-43c5bcf4c116,2025-06-25,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,1627.48,Denied,Service Not Covered
+fd9ddfb0-b393-4a00-a6fe-5361844efacb,2025-03-11,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Lowery,Dermatology,Psoriasis,Treatment for Psoriasis,4075.86,Denied,Service Not Covered
+4866cc6a-659a-4f3c-85a7-91b5546f0fb8,2025-11-06,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,793.71,Denied,Service Not Covered
+a21aaf56-274b-4c8c-b75e-632d5d4a564b,2025-10-19,c738ecbc-eb5b-4141-966a-54350630fe57,Christopher Baker,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,4770.36,Denied,Incorrect Coding
+a782e897-d8e9-47e5-86bf-932803761b4d,2025-05-19,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,835.98,Approved,N/A
+ae4a1f4f-ba22-45ce-be81-8b28b3c7f95c,2025-06-02,f162faba-e9b7-4dce-8ef2-c0cc21ca3a5c,Justin Giles,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,2169.95,Approved,N/A
+52a4fd3a-8bfd-486c-8021-9a0521fc754e,2025-06-16,27eef31d-3551-4eba-9695-711ec515c025,Elizabeth Todd,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,1984.52,Pending,N/A
+517cc1a8-95c9-410c-9483-8bf4a023ad16,2025-05-04,36ee532b-992e-494d-8ef6-f5366895b22a,David Mccoy,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,703.24,Approved,N/A
+713cef93-9d5a-4259-b640-de1b7327d596,2025-08-30,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,3052.61,Approved,N/A
+3f9eb6ef-b321-4c96-a686-5a819f462c56,2025-07-07,33872c00-5a64-4de7-93b8-4e6365c45376,Gabrielle Whitaker,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,3874.9,Denied,Pre-auth Missing
+5bb9d676-c720-48fc-a5ab-983cdcfacf6c,2025-07-14,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,4693.42,Denied,Duplicate Claim
+7b0e9aaa-5439-4416-9ed8-a045d863d8ef,2025-01-12,27eef31d-3551-4eba-9695-711ec515c025,Elizabeth Todd,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,3415.99,Denied,Incorrect Coding
+e2988ad8-2db3-4182-909c-74812e081bdc,2025-06-12,02877fa7-0cec-4b07-8cb8-93b243f080b0,Jeffrey Hobbs,Dr. Roberts,Dermatology,Psoriasis,Treatment for Psoriasis,3043.63,Denied,Pre-auth Missing
+7f309028-19f3-4c65-b4e1-adf9f84232b5,2025-04-30,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,4794.93,Approved,N/A
+6d23cd59-8ef5-4588-909f-219145cd1369,2025-05-18,11b6de36-20ca-4701-ace8-51a14ea17c9e,Jonathon Carlson,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,3721.23,Approved,N/A
+6af0e901-b2c5-4be1-b029-6fc04b7c812a,2025-07-22,a311a29d-1bef-4781-a675-0d4caa1a39fd,Anne Zuniga,Dr. Mendez,Dermatology,Psoriasis,Treatment for Psoriasis,4963.7,Denied,Pre-auth Missing
+3ceee1ac-1c3e-450c-a425-0e4d7c33d0be,2025-04-25,f2858255-ff8f-4abc-8b54-da29e320c45d,Bradley Myers,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,1880.82,Denied,Service Not Covered
+2201b12f-d551-4805-acb7-8a63625cce74,2025-03-09,92271a67-f391-4d8e-96ed-a1618966102c,Jacqueline West,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,1198.37,Denied,Pre-auth Missing
+8e7da594-23c7-493b-bf0f-507e8fa03509,2025-10-12,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,2755.38,Denied,Pre-auth Missing
+52c8a4e6-f834-4af6-bfe5-567160f39439,2025-01-05,3c997bdc-28f2-41e3-9fe4-d775661b45da,James Lopez,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,363.98,Approved,N/A
+7fcfaa40-8e9e-4a80-853a-648d132a96b8,2025-05-10,1cc56e5b-ea6a-4399-90b6-3739158be396,Kara Tran,Dr. Meyer,General Practice,Flu,Treatment for Flu,2501.23,Approved,N/A
+b42b4fa1-474c-469d-848d-5519b56ab077,2025-05-04,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3738.13,Approved,N/A
+975448f7-cae3-42b2-92d3-f7896e4daf82,2025-09-21,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,2294.83,Approved,N/A
+3b176382-d382-4638-87a5-00e5196d1705,2025-08-16,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,1305.21,Approved,N/A
+ca0ee4f8-fe3c-42f6-b642-6f6291005d64,2025-01-08,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,1169.52,Approved,N/A
+29f40bb8-1637-4a66-9081-0e1e881824cf,2025-04-22,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,3760.34,Approved,N/A
+79ea9c56-f83f-41be-87be-24a1a9971ca6,2025-01-04,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Smith,General Practice,Flu,Treatment for Flu,3031.43,Denied,Incorrect Coding
+b891d82e-1772-4387-aa3c-b20856e6b513,2025-03-23,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Lowery,Dermatology,Psoriasis,Treatment for Psoriasis,3406.24,Approved,N/A
+a5c7fdd7-4eb6-4db7-86f9-fa50855b5acc,2025-08-11,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,1471.64,Approved,N/A
+735af6b0-5fe5-4303-a79b-2cbeb5b0cd4b,2025-08-02,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,1112.66,Approved,N/A
+e44f035d-75b1-4af6-8caa-5b8afc180c09,2025-09-11,727bac23-1948-41d0-a3d5-6861450bdacb,Ashley Choi,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,3241.24,Approved,N/A
+c06ae952-3355-4b34-ad96-bc6e8ca977c2,2025-11-23,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Meyer,General Practice,Flu,Treatment for Flu,2755.04,Denied,Incorrect Coding
+bfa8ebf6-d746-4102-97ac-c3c1d50f99c4,2025-12-07,92271a67-f391-4d8e-96ed-a1618966102c,Jacqueline West,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,1296.85,Approved,N/A
+c76ea9ce-43d5-4abb-8229-e103353dd808,2025-08-06,113b6ba6-55c9-4e6b-b10c-69037cd4eef1,Jeffery Gomez,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,3167.35,Approved,N/A
+3cbc8b9c-930d-42f3-965f-926e419153cf,2024-12-31,49a64081-b6c5-4903-8f1e-ab2113a6c33c,Eric Ortiz,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,3247.5,Denied,Duplicate Claim
+d486abbf-8588-4102-b6d3-89e329a1e44e,2025-02-21,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,3786.49,Approved,N/A
+ae636920-fbb7-41e4-afcb-8d9e6da5cbb5,2025-09-16,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Mendez,Dermatology,Acne,Treatment for Acne,305.53,Approved,N/A
+d1aa0f8d-527d-4340-9be9-13abd7a07d53,2025-10-15,2e3c3228-878f-47fc-8c19-c52425c20620,Kelly Ramirez,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,2999.12,Pending,N/A
+d4c815a9-48ed-4f72-9bee-e3c9c26fd0b6,2025-04-12,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,422.49,Pending,N/A
+4e922689-9664-467f-bd50-150109e14a7d,2025-10-11,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,1009.45,Denied,Service Not Covered
+2e32f0d5-fc20-4aad-892c-7a4896d259de,2025-08-03,5a756c90-1840-4460-b161-0acd99dcba0a,Brandi Rogers,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,2958.23,Approved,N/A
+3554a9fa-9d69-4723-b9df-632657ac5b2d,2025-10-31,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,1806.03,Denied,Pre-auth Missing
+65c47a4c-46b1-4fab-9339-0f89b002ce51,2025-09-05,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,1034.81,Denied,Pre-auth Missing
+a98e4cdc-b269-4c0c-af4d-ef08494498d9,2025-10-16,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Cooper,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2224.7,Approved,N/A
+f2dc1caa-3318-4668-a7af-d378834aaf05,2025-09-06,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,732.87,Approved,N/A
+22a99491-2f10-4554-aca2-dd517093f001,2025-08-11,98858956-74e9-447d-93b7-492c889ff1c2,Kari Bishop,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,4968.51,Approved,N/A
+62da3343-5f51-42aa-845f-7b44aa1e984e,2025-09-05,727bac23-1948-41d0-a3d5-6861450bdacb,Ashley Choi,Dr. Marshall,Dermatology,Acne,Treatment for Acne,1765.56,Approved,N/A
+cd8d4bfe-51b3-445e-b2aa-843c27b8a017,2025-06-04,abf47657-3985-4f02-a786-502d4604ddb1,Mallory Greene,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,2392.25,Approved,N/A
+2eba4408-f41b-42c9-8c8e-f21271fccd9a,2025-05-24,98858956-74e9-447d-93b7-492c889ff1c2,Kari Bishop,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,658.94,Approved,N/A
+6efc95b7-2288-4a9a-b913-fcaf5e416782,2025-07-25,613778f1-c829-40ea-b45a-c33578c96796,Stephanie Golden,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,4919.76,Denied,Incorrect Coding
+958eecf5-79c2-4294-ad46-8d239a9e7cee,2024-12-25,90447c0f-be58-45c9-a3d4-0d824196d6c8,Eric Avila,Dr. Mcgee,Dermatology,Eczema,Treatment for Eczema,2060.97,Approved,N/A
+dc9d2e30-a517-448e-8fd6-a0581da2550c,2025-11-12,1bd96d68-9064-45c8-8f3f-9d06f4abab09,Misty Jones,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,1975.89,Approved,N/A
+85d98d1f-69b5-4e52-aceb-005807a01df9,2025-04-24,43daa970-5287-43f8-ad0d-06ad6903fcfd,Jeremy Christian,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,3905.31,Approved,N/A
+a952c1f8-e5b7-4d67-8d7e-8257a349ba77,2025-03-14,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Pitts,General Practice,Flu,Treatment for Flu,2351.6,Approved,N/A
+731333f5-afb2-4729-9571-8576e32e178f,2025-10-30,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Hammond,Dermatology,Acne,Treatment for Acne,3605.4,Approved,N/A
+b410649b-6aab-492b-85d4-3290a1519476,2025-11-21,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Lowery,Dermatology,Acne,Treatment for Acne,4813.4,Approved,N/A
+30bf934e-6e12-4646-b8c6-6c3aa06e2455,2025-05-22,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,1344.14,Denied,Service Not Covered
+b41066f5-4542-4d8a-a08f-783fbd805df5,2025-06-20,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Smith,Oncology,Breast Cancer,Treatment for Breast Cancer,4120.81,Denied,Pre-auth Missing
+24e7c481-f7ab-4e90-b2b2-25ffeeadb388,2025-06-04,d975d23f-72d8-4d60-9628-875ba730e9bc,Karen Mcclain,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,509.9,Approved,N/A
+4023db85-aa45-487d-83fb-cb6575c20180,2025-02-25,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Lewis,General Practice,Flu,Treatment for Flu,4953.98,Denied,Incorrect Coding
+84971617-ef64-4266-b08b-977353bc3ddf,2025-08-11,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3324.79,Approved,N/A
+e4f02283-b2c8-4ada-ad56-f71961e78696,2025-11-16,aac81d0c-b39d-4829-b59b-cbc3bccc56e0,Stephanie Hicks,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,1372.62,Approved,N/A
+45042c5f-ea9c-4a30-b134-197d75cc7094,2025-11-29,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,1743.25,Pending,N/A
+9379bb10-9b1d-47a4-8167-cded0adc9665,2025-03-01,57582b71-8473-4691-8efc-4d87b50a2c31,Eric Gibbs,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,4614.64,Approved,N/A
+b33b1483-3a22-4912-a91b-20312add6728,2025-05-13,79eee176-c6bf-44ef-8169-2f8ccf6060ff,William Vargas,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,560.1,Denied,Duplicate Claim
+e4c13492-875f-4b46-bfd0-6ce68df39ee5,2025-01-23,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,2770.83,Denied,Pre-auth Missing
+f1200b1d-4649-44e7-ab3c-b9abb4e2cf48,2024-12-23,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Mendez,Dermatology,Acne,Treatment for Acne,980.49,Approved,N/A
+8e0eccdf-b916-4888-a3fc-0ee0e75df207,2025-12-09,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2361.77,Pending,N/A
+7b7ed8cf-11ef-407a-ad13-b2b3d2b89461,2025-06-24,1d5fe0e5-fa95-489c-8f4b-b89f5a8dfd99,Darren Mitchell,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,578.05,Denied,Pre-auth Missing
+bd446b86-f654-4cc1-845b-07ac5ff5fbf4,2025-02-17,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4010.41,Pending,N/A
+35afccc2-dd35-40a1-97eb-cc675fbeed7b,2025-11-14,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,2108.15,Approved,N/A
+ffc779b6-f98a-478b-8586-9461521448d5,2025-04-12,8b06555a-ed17-4d96-b5b7-da439f196f8c,Anthony Booth,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,2332.89,Approved,N/A
+2aaea64c-a8b8-4bf8-bcf0-e24b92bbc562,2025-10-18,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Lowery,Dermatology,Eczema,Treatment for Eczema,900.97,Approved,N/A
+6e41c97e-23aa-4999-be33-1de7dc7f76c1,2025-04-10,7899ae8c-abde-4a2a-8de5-a98693a8fe7f,Michael Russell,Dr. Clark,Oncology,Breast Cancer,Treatment for Breast Cancer,1481.59,Approved,N/A
+04076d4c-ad6c-4255-913a-7aa969aa8d9d,2025-11-02,f2858255-ff8f-4abc-8b54-da29e320c45d,Bradley Myers,Dr. Myers,Dermatology,Acne,Treatment for Acne,1554.25,Approved,N/A
+5ae96778-3c62-43db-98e1-488c47f47ea3,2025-02-11,b66b2683-5581-43a0-bc36-366500db3459,Chad Benson,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,1079.4,Approved,N/A
+424a708e-fecc-40d9-8bdd-fb587807af33,2025-03-25,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Garcia,Dermatology,Acne,Treatment for Acne,4774.29,Approved,N/A
+bbd8b28c-a1e2-46c4-8368-0886061871e8,2025-05-13,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Rodriguez,Pediatrics,Asthma,Treatment for Asthma,2141.29,Approved,N/A
+bcba4868-9c16-48a0-aa1d-7d6972c113bc,2025-04-25,ec8ecf70-7851-4405-941a-2bdd6a0f35ab,Lisa Mcgee,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,1463.83,Approved,N/A
+489bf4a3-9f3e-4204-a64b-e5a3362ce60a,2025-06-16,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,4855.97,Approved,N/A
+f9e69978-d0ea-4fd3-bb4c-a70620bd2458,2025-01-25,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Shaw,General Practice,Flu,Treatment for Flu,3432.23,Approved,N/A
+062c2df6-9fd6-405a-8e66-412bf62b9234,2025-10-06,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4945.68,Approved,N/A
+5833af30-c3b5-4097-a8fe-e37235810d7a,2025-07-29,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,4245.11,Denied,Duplicate Claim
+96d7c778-1a1c-4acc-8cc8-46018b6620a4,2025-08-22,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3667.85,Approved,N/A
+76cdfad2-0034-4b69-aced-b4b6263c62a8,2025-07-30,41733b16-5b06-4239-a222-8745201e40a7,Timothy Hill,Dr. Terry,Pediatrics,Chickenpox,Treatment for Chickenpox,268.58,Approved,N/A
+e599440c-d7f3-49b9-bd8e-29205ab3e62a,2025-01-11,81d2beda-a354-4bcf-ac40-5f79ffb583de,William Murphy,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,3210.84,Denied,Incorrect Coding
+089ff84e-6bf5-41ac-ab05-b76d05402bc4,2025-06-03,e4a5de56-3117-424f-a146-3c7dabf1b324,Charles Brooks,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,3362.26,Approved,N/A
+468fdb9c-b963-4481-825b-dfcbf1e86dcd,2025-09-15,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Cochran,Oncology,Lung Cancer,Treatment for Lung Cancer,1199.43,Approved,N/A
+1654f09e-1b62-439e-ac27-b981cc766a69,2024-12-12,f162faba-e9b7-4dce-8ef2-c0cc21ca3a5c,Justin Giles,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,2477.69,Approved,N/A
+f532962b-7f8c-4202-b6dd-9a5050773a37,2025-10-06,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,3542.24,Approved,N/A
+3f68a8f5-970c-4fcf-9b82-8c92db72d852,2025-04-02,5c57b088-e4e9-448a-af17-ba1bf8622698,Tiffany Williams,Dr. Meyer,General Practice,Flu,Treatment for Flu,4080.18,Denied,Incorrect Coding
+4a20db73-a101-4e70-baf2-75a5a3512ba5,2025-02-21,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,1401.91,Approved,N/A
+827f2d6b-307b-47fa-8c8e-5ee46a46e33d,2025-01-26,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,1569.76,Approved,N/A
+5734f438-56be-414b-92bb-a64439f699e7,2025-06-03,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,4195.9,Approved,N/A
+822dd78a-317b-4932-a7df-94e4836c198e,2025-11-20,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,1645.53,Approved,N/A
+b98c24b4-a8e9-47ff-b811-a88489ddd249,2025-11-09,7728494b-87de-4941-9e94-2f46270aa25b,Jose Johnson,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2870.29,Approved,N/A
+57b586cf-02ea-4ccd-a0a0-b6913d55e2d3,2025-03-25,c1c443b7-4965-41a8-bb8a-df852cdba65e,Laura Martinez,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,2855.66,Denied,Duplicate Claim
+3ded55b9-96e3-44c8-b742-09039eeded5f,2025-03-13,50e66922-3469-4405-9b10-f1c8c33224df,Kathleen Richardson,Dr. Torres,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,4219.78,Pending,N/A
+3c7f6d9a-74a0-484b-b6b7-f3f30aeab34e,2025-02-24,c1c443b7-4965-41a8-bb8a-df852cdba65e,Laura Martinez,Dr. Brown,Dermatology,Psoriasis,Treatment for Psoriasis,895.58,Approved,N/A
+84943ccc-010e-464d-94cc-5bc9d08b6dd4,2025-04-23,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,354.53,Pending,N/A
+9dbeecb2-ac10-4eb1-a344-4fc929858c84,2025-04-08,1391012c-b4ec-4220-8621-ff73210235ee,Danielle Johnson,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,3678.76,Denied,Pre-auth Missing
+e4061f25-5790-44b5-b434-8e3d76293466,2025-10-10,8b090a14-b36a-4d41-ad4c-7141e19f29ed,Philip Valenzuela,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,2438.88,Approved,N/A
+801abfaa-6305-4c8b-8fbb-169f3074d4f5,2025-02-13,02649d6b-f45a-4757-8884-1764080448e8,Vicki Horn,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,1872.37,Approved,N/A
+63d30594-d0ec-40f5-8260-0b93297ce57d,2025-07-06,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Moody,Dermatology,Eczema,Treatment for Eczema,1265.09,Denied,Duplicate Claim
+5c9c638e-6168-4770-b8ff-60aea5f72847,2025-01-17,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,154.22,Denied,Incorrect Coding
+a91f5baf-412f-4aac-8ab5-2d3c0c4b8990,2025-01-18,774571ae-b33d-4412-9d17-61ebe4eefa79,Edward Smith,Dr. Myers,Dermatology,Acne,Treatment for Acne,1985.04,Approved,N/A
+56126489-8146-478d-8d93-cea1f5ff34a9,2025-07-17,1d64d298-4356-4422-b1d7-c7b85cd2102f,Linda Cantu,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,473.79,Denied,Pre-auth Missing
+00ac49c7-6b52-4591-a77b-57b10339f40c,2025-06-01,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,2190.66,Approved,N/A
+529a4909-4c4a-4a19-863e-2b5a41b56fe1,2025-03-15,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3669.64,Denied,Incorrect Coding
+2d13f172-a4d4-442b-beab-5db1c5ad70dd,2024-12-27,063a10d0-046a-4855-8da2-51165cede9b1,Alexis Mcdowell,Dr. Brandt,Orthopedics,Tendonitis,Treatment for Tendonitis,3792.68,Pending,N/A
+5d280d93-e641-4967-a7fe-36f6786569f8,2025-06-22,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3141.87,Approved,N/A
+fe8768fb-bf64-435e-8ee8-dba5399bffeb,2025-03-15,9fde7ec1-3cc2-43ce-8f47-876438cc02a5,Scott Logan,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,2199.46,Approved,N/A
+1011b45d-ec98-47d7-94ff-fe05cf640e10,2025-05-05,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Moody,Dermatology,Acne,Treatment for Acne,3488.29,Approved,N/A
+c9d05ec4-3c14-4af1-9096-6e99b8bba54e,2025-07-23,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,1350.12,Approved,N/A
+63fb96e4-8fb0-46ed-8c79-76a725373bb7,2025-09-02,62897400-9444-4071-9173-0e6112270f94,Jermaine Mitchell,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,1918.71,Approved,N/A
+13efabfb-ffa3-4e3a-a672-8a93cef14995,2025-08-29,088d8c42-4b60-4022-8cf5-cb92a088e025,Mark Ross,Dr. Farley,Dermatology,Acne,Treatment for Acne,1074.96,Approved,N/A
+9f478c14-fce6-4f0b-b1b3-f61cc2c0a2a4,2025-06-30,41733b16-5b06-4239-a222-8745201e40a7,Timothy Hill,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2660.34,Approved,N/A
+aa1cf9f8-7431-410f-85a3-fe41cca30067,2025-11-15,cc8df4f2-cec2-48bc-a522-07f34fd2cdcb,Megan Daniels,Dr. Brown,Dermatology,Acne,Treatment for Acne,3363.59,Pending,N/A
+8a0a93a0-fb36-47cd-a571-7b239c7f5a46,2025-01-01,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,2220.27,Approved,N/A
+df79536a-18b1-455b-820b-a1c1f6f37392,2025-05-01,abf47657-3985-4f02-a786-502d4604ddb1,Mallory Greene,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,4781.07,Denied,Incorrect Coding
+a0c058d4-6af3-41b1-bbe6-4df07f832427,2025-08-28,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Cooper,General Practice,Back Pain,Treatment for Back Pain,2181.2,Denied,Duplicate Claim
+c7c9d352-9de1-4107-9a16-45ce383affbc,2025-02-06,79716028-8f74-49b2-98cb-9fbeabd0e0e0,Kenneth Hardin,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,1547.03,Denied,Incorrect Coding
+634c351c-d45f-43f1-a18a-74ec25cbd36e,2025-08-09,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Brown,Dermatology,Acne,Treatment for Acne,4318.04,Pending,N/A
+a8b588cd-9b20-45c8-a2fd-a56533998897,2025-10-27,79716028-8f74-49b2-98cb-9fbeabd0e0e0,Kenneth Hardin,Dr. Durham,General Practice,Flu,Treatment for Flu,587.12,Denied,Incorrect Coding
+a842e4b2-33eb-4ca0-99f2-33aac9bf3c45,2025-07-31,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Brown,Dermatology,Psoriasis,Treatment for Psoriasis,3241.69,Approved,N/A
+a13849fb-5fcb-48d7-b81a-3becb0f786fa,2025-02-23,90447c0f-be58-45c9-a3d4-0d824196d6c8,Eric Avila,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4703.73,Denied,Incorrect Coding
+b2bac050-004c-4b3d-87ac-93d3a52d6454,2025-04-09,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Dean,Oncology,Breast Cancer,Treatment for Breast Cancer,4856.57,Denied,Incorrect Coding
+8af4a48c-5458-43b3-a8b4-055f203ac026,2025-08-30,f5544778-b84e-4546-b145-7672edecd3a4,Kelly Moore,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,683.27,Approved,N/A
+18f418b6-187b-4dc4-9e97-db956571c146,2025-08-30,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Perry,Cardiology,Hypertension,Treatment for Hypertension,600.11,Pending,N/A
+851b3c4d-f3c0-409b-a344-79615ba7988e,2025-04-20,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,830.69,Denied,Incorrect Coding
+bb76bffb-1587-484b-b10e-7666b1cf3e87,2025-08-19,98858956-74e9-447d-93b7-492c889ff1c2,Kari Bishop,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,690.57,Approved,N/A
+6a448168-c0bd-4f7d-99a6-3711654cea60,2025-10-26,eddc424c-ee17-4f3d-a773-ccf49a2664f2,Kevin Rosales,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,785.09,Approved,N/A
+10bf4b3b-50e8-464a-93d3-90a1391a963c,2025-11-17,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,3331.93,Denied,Duplicate Claim
+8de31c03-a28c-475e-9b69-ed5f9a316efd,2025-08-24,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Smith,General Practice,Back Pain,Treatment for Back Pain,1294.08,Approved,N/A
+e2824f5d-23cd-48bd-9541-c5cf5bdf97e0,2025-07-09,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Avila,General Practice,Back Pain,Treatment for Back Pain,2580.55,Denied,Service Not Covered
+d78797a7-2886-4f3f-b8ff-abfcaf5381e5,2025-01-13,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,1706.15,Approved,N/A
+0305e328-6d34-4db9-a74b-520327d23477,2025-01-07,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Roberts,Dermatology,Acne,Treatment for Acne,4000.41,Denied,Incorrect Coding
+4f9c1a3f-8657-4b82-a9f2-d4fef2e4df14,2025-06-26,c3a00ca8-f30d-4a52-b428-b48f4bb917d1,Michelle Crawford,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,3175.41,Approved,N/A
+4e2728de-0969-4de7-ae1e-e375890c540e,2025-09-03,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Roberts,Dermatology,Acne,Treatment for Acne,1412.97,Denied,Incorrect Coding
+b0975a03-e59a-4af2-b3ea-db9d01cc4bad,2025-09-28,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Garcia,Orthopedics,Tendonitis,Treatment for Tendonitis,1006.47,Approved,N/A
+532b31ca-b711-4331-8155-f96e5e09a7e2,2025-12-02,79eee176-c6bf-44ef-8169-2f8ccf6060ff,William Vargas,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,2312.97,Approved,N/A
+01fa8ad1-5db7-4911-ba86-c730281b0445,2025-01-31,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,2485.05,Approved,N/A
+7b802e03-979a-412f-a0d1-5eda1b33544b,2025-07-06,57101cdc-bf53-4d92-bd01-7bb8775f151d,Jasmine Fernandez,Dr. Cooper,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,366.6,Denied,Service Not Covered
+c065ec01-6239-4f72-a281-79bf6656eb31,2025-08-04,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Meyer,General Practice,Flu,Treatment for Flu,2820.21,Denied,Duplicate Claim
+08589321-691c-4201-bf04-7470436ef0b8,2025-02-08,06b53de3-136a-4b63-ac1d-d4b1a6658d19,Brenda Holland,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,1453.2,Denied,Pre-auth Missing
+9c6d2540-a07c-45cc-9a2b-8266487deaeb,2025-08-04,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,3855.45,Denied,Pre-auth Missing
+81c313ad-5c9c-46ad-aacf-8d6e1b69e855,2025-03-21,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,4386.9,Approved,N/A
+ba82fcda-fc29-4864-8cf4-c1c63700579c,2025-06-15,11b6de36-20ca-4701-ace8-51a14ea17c9e,Jonathon Carlson,Dr. Cochran,Oncology,Lung Cancer,Treatment for Lung Cancer,205.36,Pending,N/A
+64f08ffd-5a40-45d7-a5ba-cbb62e386047,2025-07-10,1cc56e5b-ea6a-4399-90b6-3739158be396,Kara Tran,Dr. Vang,Dermatology,Acne,Treatment for Acne,4802.53,Approved,N/A
+39370231-61bf-4191-af3c-c80155f14a97,2025-06-14,451486d7-aae9-46f0-a03a-82c9e416bef1,Audrey Stewart,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,2459.39,Approved,N/A
+b4522a57-8811-493f-8b7b-53d9d0efb50c,2025-04-06,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,4909.92,Approved,N/A
+e2f5f27e-8eb9-4db8-b1c5-9b635a3ec993,2025-08-26,c618dcae-fd35-419c-878f-b5e3f7e5bf5f,Mary Howell,Dr. Durham,General Practice,Back Pain,Treatment for Back Pain,570.16,Approved,N/A
+a7bf015b-db2d-4417-beaf-7d94e28c3e9c,2025-05-22,ebc71dfa-7e5a-44b3-ab55-d1ea8bc169de,Dr. Duane Terrell DDS,Dr. Smith,Oncology,Breast Cancer,Treatment for Breast Cancer,4087.77,Pending,N/A
+324d7519-e5d2-4f06-baae-0323d06d709f,2025-02-09,a311a29d-1bef-4781-a675-0d4caa1a39fd,Anne Zuniga,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,1528.29,Approved,N/A
+685bcbac-e886-4ec3-ad01-bcfa3b9f5c4f,2025-02-08,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Franco,Pediatrics,Asthma,Treatment for Asthma,1946.47,Denied,Pre-auth Missing
+28a08dd1-6f36-4f24-81cb-14068a2ecfa7,2025-01-26,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,1520.53,Approved,N/A
+f0f32cb8-7049-48aa-9397-65ece23d490f,2025-03-08,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,1823.29,Approved,N/A
+6582db08-547d-493d-b458-5a2a22fcb238,2025-12-07,c8a552e5-d135-4249-8ebd-98db998a75dc,Lee Silva,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,2771.06,Approved,N/A
+87806edb-947a-4f92-932f-504065c8a51e,2025-10-27,1d5fe0e5-fa95-489c-8f4b-b89f5a8dfd99,Darren Mitchell,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,3690.78,Approved,N/A
+45c1ebb5-96aa-476c-a17f-328228c6f178,2025-05-04,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Myers,Dermatology,Acne,Treatment for Acne,4331.4,Denied,Pre-auth Missing
+826f1a2f-ff92-4a03-9bc8-b10f8b271dbd,2025-05-11,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,4958.67,Approved,N/A
+8f25c856-c32f-49eb-ab56-5197178e2792,2025-09-05,df23240d-5098-402a-a4e3-4ae62e311b37,Brooke Keller,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,1766.19,Approved,N/A
+5e726bec-128b-4ea8-b7c7-4eb5d6bb7ac2,2024-12-13,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Moody,Dermatology,Acne,Treatment for Acne,3433.64,Denied,Incorrect Coding
+cde20eb9-eac2-4e7a-aeee-e10af91fb7cf,2025-01-17,6e9a51a2-d1db-4473-9b14-e7459717ded8,Leonard Allen,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,2668.52,Approved,N/A
+0cfd95dd-1746-4d1c-9129-24bcdeccbb3d,2025-07-06,02649d6b-f45a-4757-8884-1764080448e8,Vicki Horn,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,4757.58,Denied,Incorrect Coding
+5d21b022-0fb1-480a-909c-57a87105f62b,2025-04-19,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Perry,Dermatology,Acne,Treatment for Acne,1106.25,Approved,N/A
+0d7b4bf1-a715-487a-b7a2-657d7e2f33b1,2025-07-25,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,570.53,Denied,Pre-auth Missing
+4a1472cb-4da9-4b5d-91ec-18db1df3db43,2025-07-10,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,2845.27,Pending,N/A
+7f97180a-947b-4e3d-8515-08160637190c,2025-10-04,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,150.82,Denied,Service Not Covered
+c5847017-8c38-4400-b47d-013af99f7e5a,2025-10-01,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,4085.59,Pending,N/A
+38907a05-efba-4cdc-989c-fda27e8099b8,2025-03-24,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,2004.54,Denied,Pre-auth Missing
+e8d8519f-985d-4ff3-acb9-c72cf65e3065,2025-12-01,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,4888.49,Approved,N/A
+b9edd0bc-3dd9-4e9e-9723-a86ac00492ac,2025-02-19,e4a5de56-3117-424f-a146-3c7dabf1b324,Charles Brooks,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,1334.53,Approved,N/A
+c5476f91-75b4-4813-bfbe-b2ddeea8fa9f,2025-07-03,106d374b-b10b-4d60-ac4c-b2ae87ee75d1,David Taylor,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,312.15,Approved,N/A
+34b1a143-0def-4d2e-bd08-727776fc027f,2025-04-26,4435f8e8-732b-40ed-9922-98b6d9b821f2,Spencer Williams,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3325.44,Denied,Incorrect Coding
+dab981ba-b701-457c-9487-adbd4d0ae702,2025-05-13,17e4d24f-3b81-43a8-bc55-d512e23b4101,John Perkins,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,816.8,Approved,N/A
+3926f2fc-8c7e-4577-bbb2-dd81d3379ed6,2025-10-25,dc61480a-4fa4-4be2-b81f-69326f9b642b,Bridget Wolf,Dr. Terry,Pediatrics,Chickenpox,Treatment for Chickenpox,263.6,Pending,N/A
+9694b42c-9491-4eb5-963f-6b3bbaf97cd8,2025-12-05,aac81d0c-b39d-4829-b59b-cbc3bccc56e0,Stephanie Hicks,Dr. Marshall,Dermatology,Eczema,Treatment for Eczema,1812.56,Approved,N/A
+023d7ef1-17f3-4b1c-aedd-982fc4a885e6,2025-09-02,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Dean,Oncology,Breast Cancer,Treatment for Breast Cancer,1155.04,Approved,N/A
+2be2f3a2-d423-43b8-ae9e-0f6f8f03a8fd,2025-08-16,b797887c-a97d-42b6-8522-60c554aef600,Amy Lopez,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,4781.91,Approved,N/A
+fe46dd2b-7a2d-4646-bda6-89528e50f948,2025-10-27,eddc424c-ee17-4f3d-a773-ccf49a2664f2,Kevin Rosales,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,4542.56,Approved,N/A
+730d4f0a-bbc4-4d49-94f6-e46f7c84ae53,2025-01-23,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,3711.52,Approved,N/A
+8b7ce8be-36d9-4a39-b924-0ad536df17bf,2025-11-11,d7f3f2a2-65b3-455b-b768-c28765ea521a,Anthony Flores,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,4783.19,Approved,N/A
+67a8f5a4-058c-4fc1-91ed-6561b04bd78e,2025-08-24,9b146d69-257a-4e2e-9983-99ebb38825d0,Daniel Carter,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4091.79,Denied,Incorrect Coding
+20803e19-5169-41b3-84fa-817fbcfcb256,2025-03-08,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,3218.71,Denied,Duplicate Claim
+a67182da-9912-453a-94c3-8293149cda74,2025-12-08,11b6de36-20ca-4701-ace8-51a14ea17c9e,Jonathon Carlson,Dr. Hammond,Dermatology,Acne,Treatment for Acne,132.04,Approved,N/A
+5e82f621-5fce-44b7-9225-9b8b26217922,2025-08-07,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Smith,General Practice,Flu,Treatment for Flu,4049.33,Pending,N/A
+a68eb426-ddf0-49b1-bb8b-f0f7f7229c40,2025-06-15,aac81d0c-b39d-4829-b59b-cbc3bccc56e0,Stephanie Hicks,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,311.59,Denied,Service Not Covered
+afe8ccfa-6938-4cba-87a2-d8b74c297b22,2025-01-08,90447c0f-be58-45c9-a3d4-0d824196d6c8,Eric Avila,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,4830.33,Approved,N/A
+ee421104-e81d-4dbb-afb3-68ef273c51dd,2025-08-20,3c997bdc-28f2-41e3-9fe4-d775661b45da,James Lopez,Dr. Brown,Dermatology,Psoriasis,Treatment for Psoriasis,867.1,Approved,N/A
+104af1ae-227e-4f6a-b188-96417d42a305,2025-05-31,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,1532.56,Pending,N/A
+835fa14b-11c3-4fba-971e-fe686574b675,2024-12-24,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Johnson,Orthopedics,Fracture,Treatment for Fracture,2275.97,Approved,N/A
+560a2f1b-93f8-444d-90bb-f5d8c8197f39,2025-10-28,eddc424c-ee17-4f3d-a773-ccf49a2664f2,Kevin Rosales,Dr. Brown,Dermatology,Acne,Treatment for Acne,3331.51,Approved,N/A
+80e4c147-ad22-4981-80ea-baa803dd952e,2025-06-01,39d2d8d1-89c9-498a-aa8d-39c95dba6a29,John Hernandez,Dr. Norris,Dermatology,Acne,Treatment for Acne,2603.92,Approved,N/A
+17f7e07c-4cdc-4049-a4bf-0580f990a318,2025-10-03,0248a7eb-4151-4db5-b474-81157e9d270a,Heather Franco,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,1823.56,Approved,N/A
+b0f4a35c-4999-476f-9f38-026693a604f1,2025-06-15,1134694f-7e56-41a4-9eca-978d61128936,Barbara Byrd,Dr. Farley,Dermatology,Psoriasis,Treatment for Psoriasis,3107.29,Approved,N/A
+23432b23-2aef-4011-a71f-5bbad2c7ee0d,2025-04-16,62897400-9444-4071-9173-0e6112270f94,Jermaine Mitchell,Dr. Perry,Cardiology,Hypertension,Treatment for Hypertension,2142.82,Approved,N/A
+484267a3-84dc-4811-b6bf-49ab586ddd44,2024-12-12,613778f1-c829-40ea-b45a-c33578c96796,Stephanie Golden,Dr. Avila,General Practice,Back Pain,Treatment for Back Pain,1508.81,Approved,N/A
+2196674e-0e12-4ae5-ba0b-5125e1849df4,2025-09-18,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,3789.53,Denied,Pre-auth Missing
+7047ea9e-9a3b-477b-bae6-0d1a0caef550,2025-09-10,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,3161.08,Approved,N/A
+38fda871-ebf3-4c38-beae-27830f8bd2cd,2025-06-06,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,3699.63,Denied,Service Not Covered
+be4f5d1c-5add-436f-9615-2631d2f4822a,2025-05-20,404e22c2-aa18-45a4-8a01-24568cae3c1b,Diane Ortiz,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,3472.83,Approved,N/A
+62f1e960-f8f9-403f-b66f-c17c6f0cb67a,2025-01-30,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,2892.91,Approved,N/A
+8138789c-3ea6-4727-a650-3f3a2ddca00a,2025-08-07,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Garcia,Orthopedics,Tendonitis,Treatment for Tendonitis,4718.63,Approved,N/A
+d7cf82fa-d7e9-44fc-b390-238d156fffb8,2025-05-31,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,363.25,Approved,N/A
+b8f6df47-3b9b-407f-9a4d-3630ddf805d3,2025-05-04,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,2538.89,Approved,N/A
+c7dcedb5-3f0e-4234-82e0-b747fccdc5ed,2025-09-01,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4636.46,Denied,Incorrect Coding
+8c3f0d6d-33e6-439c-adab-1ecb1c931e11,2025-08-08,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,4263.01,Approved,N/A
+63ea60b7-b48c-4219-a050-135e826a3794,2025-02-27,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,1939.13,Approved,N/A
+99cc4913-6d47-40e0-81c4-52ac534476f7,2025-10-25,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Moody,Dermatology,Acne,Treatment for Acne,2245.2,Pending,N/A
+f8fc4089-9c54-4987-b9df-1959d99c6bdb,2025-05-03,6e9a51a2-d1db-4473-9b14-e7459717ded8,Leonard Allen,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,3856.68,Denied,Incorrect Coding
+ad254fe7-17bd-4c8f-b78d-ac5a8d3a48d3,2025-11-15,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Farley,Dermatology,Acne,Treatment for Acne,2676.89,Denied,Duplicate Claim
+98e5a406-28e3-484a-9c23-e5c263eff8c9,2025-06-21,8e6bb570-aef6-48e0-9fbd-4c0c0647e3b6,Nathaniel Tran,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,3882.73,Approved,N/A
+6474a36c-c919-4516-b26e-b6316e8f4c58,2025-09-11,2e3c3228-878f-47fc-8c19-c52425c20620,Kelly Ramirez,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,4354.76,Approved,N/A
+80ca5872-2afd-47e6-8667-fcf3652fdd86,2025-03-28,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,3676.14,Approved,N/A
+adf60e2a-986b-4c5c-8830-16919be03465,2025-08-20,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,2329.71,Approved,N/A
+460f379f-0942-4507-b198-b1dfaa7d9d07,2025-11-04,27eef31d-3551-4eba-9695-711ec515c025,Elizabeth Todd,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,2949.3,Approved,N/A
+928183ae-335e-4085-8d4a-58cb2e168594,2024-12-21,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Norris,Dermatology,Acne,Treatment for Acne,2779.63,Approved,N/A
+605b94a8-f715-4632-ba05-954c932692fc,2024-12-16,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,3577.42,Approved,N/A
+84acaf4a-33d1-4743-9467-d78e4c7b2ad7,2025-05-24,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,3655.93,Approved,N/A
+7e75811a-8106-4e59-bdb3-a6c1e4821f0e,2025-04-15,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,1104.51,Pending,N/A
+4f7e6bf2-6fa0-40fe-b47d-b3df3af8b422,2025-07-19,8a7f78fd-011f-45df-b3ab-aa8afd29f893,Sarah Brennan,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,1474.88,Denied,Service Not Covered
+f597fc05-6bac-4d91-af80-653ae098b9aa,2024-12-13,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,2350.14,Approved,N/A
+aa920eeb-1723-4d50-9204-099c6693a0bb,2025-08-16,0248a7eb-4151-4db5-b474-81157e9d270a,Heather Franco,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,2338.18,Approved,N/A
+fc09bcdb-4816-4ac2-89f4-712a0a9b11f4,2025-04-06,9b146d69-257a-4e2e-9983-99ebb38825d0,Daniel Carter,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,2640.98,Approved,N/A
+41e173ff-c2b3-4f5a-8424-ad20ef0b78bf,2025-09-28,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,2205.65,Approved,N/A
+cbc95e2a-fc21-4ca4-a268-ef1e416e738c,2025-01-02,2ed3ca24-225b-49b8-8659-2064d2785455,Amy Stout,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,1442.08,Approved,N/A
+d7dce6c2-95b3-4ef6-b147-ee7d58f86fd1,2025-09-13,5e90530d-31ac-4ea0-b53d-fd21300bcfd3,Sherry Parker,Dr. Smith,General Practice,Flu,Treatment for Flu,1591.71,Approved,N/A
+d41fa848-60a1-4a74-903d-cd87264dd079,2025-08-07,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,2252.37,Approved,N/A
+a3d3b7c5-0c42-46ec-a20f-ec10dd2f8dd3,2025-04-22,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,4830.79,Denied,Incorrect Coding
+742a6efd-bedc-449b-b0aa-dd9787f07e75,2025-07-03,8a60f2f3-bf25-454d-b952-194cf6e31ad9,Heather George,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,2943.96,Approved,N/A
+8ba498c7-3b58-4c22-90a4-b7281ab0a226,2025-04-29,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3323.78,Approved,N/A
+0274e493-4eaa-4fe1-8352-08503b64cc69,2025-04-11,d7f3f2a2-65b3-455b-b768-c28765ea521a,Anthony Flores,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,182.45,Approved,N/A
+a792f42a-f44b-419f-b134-576a8030ada5,2025-11-04,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Cochran,Oncology,Lung Cancer,Treatment for Lung Cancer,252.83,Approved,N/A
+60527db4-619e-4701-bed6-5f55f795719b,2025-07-28,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Vang,Dermatology,Psoriasis,Treatment for Psoriasis,2288.85,Denied,Incorrect Coding
+21bc82d3-f217-498b-aabb-c178afc85d83,2025-11-12,eb89c764-85a0-4822-b4fc-a996d319235d,David Pierce Jr.,Dr. Moody,Dermatology,Eczema,Treatment for Eczema,3784.61,Approved,N/A
+7ee8222b-20bd-4aa5-b2a9-3cf3cbbf8b97,2025-01-09,a3208ed0-b651-4d15-b784-f0c787605099,Dennis Williams,Dr. Hammond,Dermatology,Acne,Treatment for Acne,2418.93,Denied,Service Not Covered
+3971628e-d3e2-4a1f-99b1-f1e0d8c0ff89,2025-10-08,727bac23-1948-41d0-a3d5-6861450bdacb,Ashley Choi,Dr. Moody,Dermatology,Acne,Treatment for Acne,3600.96,Approved,N/A
+0ed798f2-e1f1-4163-8492-3b7450a5f4d8,2025-05-23,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,1240.38,Denied,Pre-auth Missing
+8e719b03-57e2-4ed7-882a-b6562bd878a9,2025-10-28,295c5d80-13a3-43c0-9541-54f55db680d7,Todd Smith,Dr. Pitts,General Practice,Flu,Treatment for Flu,1417.85,Approved,N/A
+38537e71-7010-4d0e-8aa6-8b6105cbdb27,2025-07-27,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Hammond,Dermatology,Acne,Treatment for Acne,3802.39,Denied,Duplicate Claim
+e9db787b-30e3-4f73-af85-7f9c6ebb6b6c,2025-04-03,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,2239.54,Pending,N/A
+3a1688db-d95a-4243-b5e3-6feeb1a08df7,2025-12-08,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,836.27,Denied,Duplicate Claim
+0de25dd5-bb8b-48d9-bca9-19bf16e6cd04,2025-07-02,06b53de3-136a-4b63-ac1d-d4b1a6658d19,Brenda Holland,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,3166.6,Denied,Incorrect Coding
+b34116cc-1e72-471b-8d9b-314a53ddab48,2025-10-06,701c7676-6540-4592-b886-e7915e137cc3,Alison Ramsey,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,4187.53,Pending,N/A
+f7214d01-5017-4b91-ad2b-dd9d8cdf6634,2025-03-10,ebc71dfa-7e5a-44b3-ab55-d1ea8bc169de,Dr. Duane Terrell DDS,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2891.13,Approved,N/A
+a54953e0-8c18-41f9-b7c3-acb706dab8e6,2025-06-13,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Brown,Dermatology,Acne,Treatment for Acne,674.02,Approved,N/A
+f2b9399b-052c-4373-8fc7-ce96cbb3f071,2025-07-09,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4821.19,Denied,Pre-auth Missing
+47bc7d0b-83d2-42e2-9cde-107dcdd8e760,2025-03-17,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,755.33,Denied,Duplicate Claim
+d0795268-2948-46ce-9159-78a4ae0d7e5c,2025-05-20,62897400-9444-4071-9173-0e6112270f94,Jermaine Mitchell,Dr. Pitts,General Practice,Flu,Treatment for Flu,2741.57,Denied,Pre-auth Missing
+10652f1e-2001-4d66-b318-3072560a7233,2024-12-14,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3097.18,Denied,Pre-auth Missing
+def0b95f-2f40-497f-8c4a-33b6fa464a3f,2025-10-23,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Lowery,Dermatology,Acne,Treatment for Acne,4399.74,Approved,N/A
+5bba421a-fcfe-4fdf-abe7-0b7c19f9201a,2025-08-22,3698182a-f043-4c72-8bd4-bd8936982d0e,Mr. William Thomas,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,3995.28,Denied,Incorrect Coding
+2a07e6f2-d6d3-44cb-a765-e12f4ee4586f,2025-04-12,1bd96d68-9064-45c8-8f3f-9d06f4abab09,Misty Jones,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,4854.46,Approved,N/A
+9f93182c-7f82-400b-8c62-1299774863a6,2025-06-30,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Farley,Dermatology,Acne,Treatment for Acne,1882.04,Approved,N/A
+6a99e392-4670-4eb2-8370-419273c305f0,2025-03-09,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Mcgee,Dermatology,Eczema,Treatment for Eczema,2166.34,Approved,N/A
+72a2cbe7-55ea-4bd9-b14a-0d9afe66a36e,2025-07-12,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,499.61,Approved,N/A
+3897092d-e65b-4dd0-92c5-418c154051e0,2025-01-08,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,1873.52,Approved,N/A
+74d69c28-9bed-4715-8b5e-cc9363e567c4,2025-05-19,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Cooper,General Practice,Flu,Treatment for Flu,4485.47,Approved,N/A
+f36497a4-c0d7-4dcf-b0e1-965da007bba4,2025-09-21,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Lewis,Dermatology,Acne,Treatment for Acne,3089.62,Approved,N/A
+ced47d70-3ff1-4c0e-8f38-b460fff3c4c9,2025-04-15,1ed654e4-a583-4961-a8ee-07253c98b5c5,Justin Coleman,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,3055.69,Approved,N/A
+22131754-d7ba-4255-9cf3-d70731d12964,2025-05-03,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,763.3,Approved,N/A
+d3d0713e-f492-491d-b9e1-f77f3bdfc81f,2025-08-18,50e66922-3469-4405-9b10-f1c8c33224df,Kathleen Richardson,Dr. Smith,General Practice,Flu,Treatment for Flu,519.01,Pending,N/A
+c0665c00-7287-45c5-94da-6778ec3a8f48,2025-03-25,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2208.07,Pending,N/A
+f20ebcd7-b0cc-4504-b867-f3fd99205a95,2025-10-03,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Pitts,General Practice,Flu,Treatment for Flu,756.39,Approved,N/A
+1b2d83c1-3d85-4a5b-a779-2887de81b874,2025-08-11,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3670.86,Pending,N/A
+1ca6b1f5-9dd5-4904-b4a5-fd9193ecd7f7,2025-09-09,2b98a891-73c0-4cbc-a68c-d8a42729d665,Sandra Spence,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,2231.64,Pending,N/A
+9e43b82e-8a8c-4675-962e-97b0d0584190,2025-11-22,ebc55fdb-362d-40dc-bf5b-2f63ad0ead9d,David Mclaughlin,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1912.2,Approved,N/A
+f314d414-e655-41d3-b2f1-0549e61cef2e,2025-07-24,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,1491.0,Approved,N/A
+49a34329-1f96-415f-b4eb-2441ca392d49,2025-08-15,668ed24f-53cd-4348-b971-77769ee8bc0d,Paul Wood,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,3289.52,Approved,N/A
+c6061932-1bff-4331-9f92-9995602c8679,2025-02-13,14b44f62-2807-4c62-9df7-ce92308e4fb7,Heather Wilson,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,4340.58,Approved,N/A
+c078ec2b-6574-4adb-a4d5-9b0c5413e4e4,2025-08-25,62897400-9444-4071-9173-0e6112270f94,Jermaine Mitchell,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4913.82,Denied,Service Not Covered
+41563455-cf04-4954-b3a0-70ad55912ce8,2025-08-06,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,308.99,Approved,N/A
+8b9d12f3-7a41-4e26-bfb6-88123d7d0fca,2025-01-20,f2858255-ff8f-4abc-8b54-da29e320c45d,Bradley Myers,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1003.98,Approved,N/A
+03ec600d-d39f-43a4-80f6-87cfe5695a9f,2025-09-04,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1470.91,Approved,N/A
+7dae970a-1e0e-42ed-9d8a-137ebd7c2f14,2025-12-09,113b6ba6-55c9-4e6b-b10c-69037cd4eef1,Jeffery Gomez,Dr. Meyer,General Practice,Flu,Treatment for Flu,4613.6,Denied,Duplicate Claim
+f4bb0442-7e2f-478e-9dc4-2d2a9d84f2cc,2025-02-01,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,3533.74,Approved,N/A
+e38488f2-e9d4-449e-9981-07e8adf66b3d,2025-08-05,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,2255.48,Denied,Incorrect Coding
+21a93f7b-6250-4caa-b0dd-e34d1b147cd4,2025-10-12,17e4d24f-3b81-43a8-bc55-d512e23b4101,John Perkins,Dr. Pitts,General Practice,Flu,Treatment for Flu,4111.58,Approved,N/A
+58c290af-02fb-4897-8128-e5dc538a6bbe,2025-04-04,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,3399.27,Approved,N/A
+d97c2e90-7c81-491f-b300-2a1e947b678a,2025-03-26,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4069.34,Denied,Pre-auth Missing
+2b507134-1e2f-4d2c-8322-6d769fd87e9b,2025-05-27,4435f8e8-732b-40ed-9922-98b6d9b821f2,Spencer Williams,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,3357.11,Approved,N/A
+3be2ccfb-3427-4976-9bdc-e5012a3fb65e,2025-02-18,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,107.59,Approved,N/A
+a97740c9-935c-4863-9414-f9707569eb28,2025-05-05,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,2344.38,Approved,N/A
+c55c38b4-3cbd-4f81-990f-9ed17f3dde80,2025-03-08,2b98a891-73c0-4cbc-a68c-d8a42729d665,Sandra Spence,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,3821.55,Approved,N/A
+dfa317e6-0b0e-4567-910a-6fd844e1703b,2025-01-21,7d5f9c36-a4a4-4778-b67c-0eff83be953d,Jason Wilson,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,4696.89,Approved,N/A
+5929a530-f58c-482d-a6c6-ef788d6a52e1,2025-10-07,81d2beda-a354-4bcf-ac40-5f79ffb583de,William Murphy,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,2738.25,Denied,Service Not Covered
+575ce5e2-fdce-4fa1-a8b4-2efdd5c5983c,2025-09-09,41733b16-5b06-4239-a222-8745201e40a7,Timothy Hill,Dr. Cooper,General Practice,Back Pain,Treatment for Back Pain,1273.75,Denied,Service Not Covered
+f3876458-cfd5-4d5f-aae4-647e54fe35a6,2025-08-02,57101cdc-bf53-4d92-bd01-7bb8775f151d,Jasmine Fernandez,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,3312.09,Denied,Incorrect Coding
+0fb54e51-d9b0-4833-903c-db5c33be05a4,2025-08-05,b74827f3-3471-4c7f-8557-7aba64510f28,Michael Hensley,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,1292.02,Approved,N/A
+cb16175f-837a-430e-a296-f1a7bddd4833,2025-11-11,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Torres,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3348.89,Approved,N/A
+98a5ef35-cd95-49be-a73e-5279500d9c1c,2025-06-02,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,2436.58,Pending,N/A
+7190a98c-060b-4eac-91f1-4e5366b08cef,2025-07-13,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Franco,Pediatrics,Asthma,Treatment for Asthma,1442.47,Approved,N/A
+e1e66809-5976-4372-bbbe-0bf5253bce12,2025-01-05,27eef31d-3551-4eba-9695-711ec515c025,Elizabeth Todd,Dr. Durham,General Practice,Flu,Treatment for Flu,2604.81,Denied,Service Not Covered
+55df179a-efc8-4e4c-860e-922f9e0b07ae,2025-10-21,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,924.15,Denied,Service Not Covered
+ee0690df-a42e-4c5d-9e0a-4af2ac32ef98,2025-01-17,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Marshall,Dermatology,Acne,Treatment for Acne,1041.5,Pending,N/A
+af9faa2a-b156-4de6-90a6-ee157156316d,2025-09-06,d7f3f2a2-65b3-455b-b768-c28765ea521a,Anthony Flores,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,4934.36,Approved,N/A
+7cf9f75d-1e39-48a0-952d-9f025225c4f5,2025-08-01,8f8baea9-3cd7-4599-9568-6199215e37d1,Daniel Garcia,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,1717.73,Denied,Service Not Covered
+87d1c2ea-7fd3-42c9-a4e6-626628b9bc9b,2025-04-19,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Franco,Pediatrics,Chickenpox,Treatment for Chickenpox,1971.58,Approved,N/A
+87db08da-ab74-48aa-99ef-485dedab497c,2025-09-02,8f64017a-6394-47b4-908e-fc25ee56f3a8,Nathan Jones,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,4306.17,Approved,N/A
+49d3c6dd-0129-4b24-afc2-3124225bc7ba,2025-05-02,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,4609.27,Denied,Incorrect Coding
+68cea27c-a9d8-48f5-9830-2680d39b4caa,2024-12-19,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,3147.49,Approved,N/A
+ac4929ec-6df7-4358-8165-5cc17ad16cbe,2025-03-09,2bd4c3cd-e76f-472d-822e-1eed8e7b97c2,David Payne,Dr. Moore,Pediatrics,Asthma,Treatment for Asthma,4074.11,Denied,Duplicate Claim
+3a7b83dd-9166-4863-b773-fd74290adad1,2025-04-19,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Rodriguez,Pediatrics,Chickenpox,Treatment for Chickenpox,3860.27,Pending,N/A
+2906b2f4-ae42-44d4-a7b0-7bc41706c279,2025-06-16,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,3068.99,Approved,N/A
+d41d89fc-8031-43cd-8161-f0949e8e69a9,2025-03-16,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Smith,General Practice,Flu,Treatment for Flu,1906.48,Denied,Incorrect Coding
+7a1f1322-6e87-4ace-b039-727eabf852fc,2025-02-09,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,2762.8,Pending,N/A
+1dc37ef1-de8e-4c05-abaa-fc3d33659a0f,2025-12-04,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,2268.07,Approved,N/A
+70963e4b-593c-4867-9744-dea0ebd17747,2025-01-12,295c5d80-13a3-43c0-9541-54f55db680d7,Todd Smith,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,181.8,Approved,N/A
+c178ff2e-1491-4fea-9697-08b11f03ee1b,2025-03-26,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Cooper,General Practice,Flu,Treatment for Flu,2107.65,Approved,N/A
+098bd1eb-0cee-4518-be54-ca2fc1a8f4d8,2024-12-14,eb89c764-85a0-4822-b4fc-a996d319235d,David Pierce Jr.,Dr. Hammond,Dermatology,Acne,Treatment for Acne,3804.99,Denied,Pre-auth Missing
+65455873-e512-484e-848e-65998866dc87,2025-09-19,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,474.58,Approved,N/A
+aa9f5ef6-e4bf-4c61-89d7-606a42301984,2024-12-23,774571ae-b33d-4412-9d17-61ebe4eefa79,Edward Smith,Dr. Walter,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2420.28,Denied,Service Not Covered
+f1b5b232-21fc-495c-a45c-f4529a4524f3,2025-01-22,cc8df4f2-cec2-48bc-a522-07f34fd2cdcb,Megan Daniels,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,3137.41,Approved,N/A
+a6764357-3dbe-4215-ae36-eae960defabf,2025-09-07,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,1319.47,Approved,N/A
+eeaa7e15-01c1-41f0-becd-0fb3471ea79a,2025-01-09,8f8baea9-3cd7-4599-9568-6199215e37d1,Daniel Garcia,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4810.33,Pending,N/A
+55058291-17cd-4fae-abe9-64862d143375,2025-04-20,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,4493.6,Approved,N/A
+ed2ed9bc-fa90-413d-a938-9e7dc890728c,2025-12-01,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Moody,Dermatology,Acne,Treatment for Acne,1155.13,Pending,N/A
+8cca072a-237c-4b32-b74a-ede449d1b397,2025-05-17,a311a29d-1bef-4781-a675-0d4caa1a39fd,Anne Zuniga,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,334.24,Denied,Duplicate Claim
+07977404-2f11-4fc5-9829-7b41d60a39ca,2025-03-06,105dbc0d-38cc-4557-8ab3-cc01daac5885,Charles Foster,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,2795.26,Approved,N/A
+0668ccdd-6f22-4016-9258-38fa0f7e4b08,2025-07-10,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,4473.22,Approved,N/A
+fb7c1039-9efd-4f78-bd86-b66a3b99f658,2025-01-27,6fe2b18a-00ac-4d98-b80a-183e2862ff5e,Douglas Campbell,Dr. Mcgee,Dermatology,Eczema,Treatment for Eczema,3133.81,Approved,N/A
+4ba0304f-5c06-473a-b680-437dd75d6167,2025-04-12,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Farley,Dermatology,Acne,Treatment for Acne,2686.31,Approved,N/A
+2f1a68c9-f62a-45ad-acb0-cb98ae84c40a,2024-12-13,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,349.93,Pending,N/A
+1c5be4fd-2c82-4d51-a702-51723bde9adf,2025-03-05,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,1047.75,Approved,N/A
+ca9e2b4d-426b-4757-ad32-141615822ba1,2025-09-23,b74827f3-3471-4c7f-8557-7aba64510f28,Michael Hensley,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,2328.66,Approved,N/A
+45619648-04ec-4395-9ba5-f26a782a6bea,2025-10-24,780b48dd-8dc9-44b8-874d-d10fb6e1dc6b,Kayla Vance,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,2949.2,Denied,Incorrect Coding
+ac427ade-9637-471e-a1c5-ac49ba414be1,2025-12-09,f5544778-b84e-4546-b145-7672edecd3a4,Kelly Moore,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,4019.24,Approved,N/A
+cc1e7aec-4b74-4664-a23e-653992bc2dbe,2024-12-21,c618dcae-fd35-419c-878f-b5e3f7e5bf5f,Mary Howell,Dr. Howard,Oncology,Melanoma,Treatment for Melanoma,3863.73,Denied,Duplicate Claim
+6b0b47ca-0f2d-4be2-bb2d-3ef0550c7a6a,2025-07-17,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,658.58,Approved,N/A
+f8d48475-41d7-4789-b360-aef775a67097,2025-07-18,62ceccd5-933d-4c42-acb1-c7f11e293b50,James Patterson,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,3495.0,Approved,N/A
+e8a543ae-d590-498f-bb60-12650c5c90a2,2024-12-17,27eef31d-3551-4eba-9695-711ec515c025,Elizabeth Todd,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2601.61,Denied,Duplicate Claim
+f0d8e53c-a023-4ad8-bf51-ebcd0a8e4f8d,2025-11-01,5d75ed5c-fbe9-4944-af52-7384d787a5be,Jessica Wells,Dr. Walter,General Practice,Flu,Treatment for Flu,1254.42,Denied,Duplicate Claim
+976c0c2f-6705-44d8-a3d2-f96937345931,2025-08-04,ebc55fdb-362d-40dc-bf5b-2f63ad0ead9d,David Mclaughlin,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1465.45,Approved,N/A
+56724f5f-8089-4ab6-b170-72d944a3e230,2025-07-29,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,356.39,Approved,N/A
+dc34b871-e20a-4850-bb82-692378fdb835,2025-04-13,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,3353.15,Approved,N/A
+6de7213e-fc8d-43a8-a930-0181ef864fc9,2025-11-30,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Hurst,Oncology,Lung Cancer,Treatment for Lung Cancer,2547.71,Pending,N/A
+ecc2f22b-29f7-4374-ae6c-76bb500ab899,2024-12-24,b7f13733-e123-498e-b881-84fe7491f23f,Ernest Austin,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,1089.56,Pending,N/A
+44438b31-49fc-4e22-8b06-2777d7b8b0e3,2025-09-16,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2088.48,Approved,N/A
+db9dbc8c-7d24-4329-8e9f-aada31f4f9d0,2025-09-02,6953cd5c-5109-47b0-ba5d-7eddca3874fb,James Leonard,Dr. Clark,Oncology,Breast Cancer,Treatment for Breast Cancer,3362.38,Approved,N/A
+3a35ea57-0fbf-4dd7-8e90-e9f671de905c,2025-12-01,aac81d0c-b39d-4829-b59b-cbc3bccc56e0,Stephanie Hicks,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,4280.55,Approved,N/A
+69c0122c-681f-4328-aa88-99de52ca1cb8,2025-05-26,33872c00-5a64-4de7-93b8-4e6365c45376,Gabrielle Whitaker,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3080.11,Approved,N/A
+bb48183e-97b2-4301-9907-c766d30a6619,2025-04-19,5e90530d-31ac-4ea0-b53d-fd21300bcfd3,Sherry Parker,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,893.3,Pending,N/A
+8653263e-bc17-4159-9115-087fd8abed7b,2025-01-18,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,2462.61,Denied,Duplicate Claim
+42805fd0-5c7e-484d-94da-b9a34f8b6d59,2025-03-08,1ed654e4-a583-4961-a8ee-07253c98b5c5,Justin Coleman,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,549.74,Approved,N/A
+38eb81db-a99a-4b3b-b4f8-020da968704b,2025-06-23,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,3675.44,Denied,Incorrect Coding
+326ed757-5a3f-4b3f-96e0-c54416b6d6e3,2025-04-28,ee459494-451a-4e88-b248-671ff21adc9b,Michael Lawson,Dr. Hurst,Oncology,Lung Cancer,Treatment for Lung Cancer,2001.98,Approved,N/A
+427e2593-12ca-40d6-90d6-b0912891d12e,2025-08-10,08dd03d4-dfe3-4dbf-a81b-40d57ad0f591,Robert Atkinson,Dr. Moore,Pediatrics,Asthma,Treatment for Asthma,2214.68,Approved,N/A
+a7f12c71-5f55-4dbe-aa02-5fbfc2adcf51,2025-03-31,ffcb4780-f870-495e-a87c-c61c23e5b0c1,James Barajas MD,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,2792.24,Denied,Service Not Covered
+419f0e41-db07-43ea-b510-ffb672131d35,2025-09-19,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,4575.24,Approved,N/A
+5a36b07b-d62c-4b7f-91db-1d597db3e41a,2025-08-09,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,2042.59,Denied,Incorrect Coding
+787c9e4c-5efc-4580-a13b-4496cd44a842,2025-01-06,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Mendez,Dermatology,Psoriasis,Treatment for Psoriasis,4711.7,Approved,N/A
+6b87c80b-6616-45f8-b491-0495549f3ea5,2025-04-10,5c57b088-e4e9-448a-af17-ba1bf8622698,Tiffany Williams,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,1164.66,Approved,N/A
+6cfeda93-6904-49b4-b711-06e6bd43dc88,2025-06-22,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Hammond,Dermatology,Acne,Treatment for Acne,2163.8,Approved,N/A
+ba0eb3c1-9144-4ffb-81eb-9d9a2573674f,2024-12-17,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Vang,Dermatology,Psoriasis,Treatment for Psoriasis,2180.96,Pending,N/A
+c0502b6f-1dad-49fb-b38e-598f0cc78ad7,2025-01-09,7728494b-87de-4941-9e94-2f46270aa25b,Jose Johnson,Dr. Mendez,Dermatology,Acne,Treatment for Acne,4610.65,Denied,Pre-auth Missing
+a99740b2-9e92-4415-bfb2-77bc08113da7,2025-06-19,6953cd5c-5109-47b0-ba5d-7eddca3874fb,James Leonard,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2634.95,Pending,N/A
+fcb5f495-856e-42b1-bb3a-08a1add8b899,2025-07-05,5c57b088-e4e9-448a-af17-ba1bf8622698,Tiffany Williams,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,4078.34,Denied,Service Not Covered
+361c5bdc-ec3f-4b43-90cc-7c817d291691,2025-06-24,2e3c3228-878f-47fc-8c19-c52425c20620,Kelly Ramirez,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,3071.55,Approved,N/A
+8358c859-18f9-4ed6-a31f-b211b45da406,2025-03-23,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,3907.24,Pending,N/A
+1dbf3e73-a671-446e-9344-f804f6665639,2025-08-15,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,3164.38,Pending,N/A
+3a8318c5-6388-4f81-985d-7987755cce24,2025-02-25,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,3798.13,Approved,N/A
+ac31e87a-5f5f-4edc-8b9f-1b6589481681,2025-05-04,ffcb4780-f870-495e-a87c-c61c23e5b0c1,James Barajas MD,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4196.55,Denied,Incorrect Coding
+90a1eae6-bd3a-4199-82ae-78c700bebdde,2024-12-28,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Cooper,General Practice,Flu,Treatment for Flu,3928.0,Denied,Incorrect Coding
+3cc728e7-e23b-4127-ac25-bea58aa2af92,2025-02-09,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,2829.42,Denied,Incorrect Coding
+0a744b11-8cbf-4dfe-be2d-a84c3c1ac797,2025-02-06,6e9a51a2-d1db-4473-9b14-e7459717ded8,Leonard Allen,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,4951.28,Approved,N/A
+65985e9e-43aa-4f2d-9842-b72b287fa40e,2025-07-01,d0214a1f-28e8-4e77-aaf0-e4da54bfae18,Sean Hayes,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,382.82,Approved,N/A
+8f019378-815f-4fc0-a0ca-50f9e7c337d4,2025-03-03,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,3762.32,Denied,Service Not Covered
+0ab5a3e3-d854-43ea-a917-42ffddeb441b,2025-05-06,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Farley,Dermatology,Psoriasis,Treatment for Psoriasis,4669.55,Pending,N/A
+6c98f065-01fa-406f-9ba2-c67ef95a38b4,2025-07-07,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3839.35,Approved,N/A
+2cd2f6d0-27be-43a0-9867-6dd38ae318c6,2025-01-04,a6436178-ca50-4cb5-8261-4d9ee3e81c64,Diane Mack,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,2511.13,Denied,Service Not Covered
+df6f0a09-e640-4c40-be73-c18c74b075d0,2025-03-23,8a7f78fd-011f-45df-b3ab-aa8afd29f893,Sarah Brennan,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,4576.47,Approved,N/A
+1131aaad-51d4-4d12-8238-9bc48fe2a74b,2025-05-29,1d64d298-4356-4422-b1d7-c7b85cd2102f,Linda Cantu,Dr. Moody,Dermatology,Eczema,Treatment for Eczema,2144.58,Approved,N/A
+49a7241a-0895-4e37-b2c8-3af672b0fbba,2025-05-27,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Montgomery,Cardiology,Heart Failure,Treatment for Heart Failure,4062.52,Approved,N/A
+4ec95d6d-c628-40f6-b1db-1d47674dbdc9,2025-03-08,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,2877.17,Denied,Pre-auth Missing
+1abee394-c619-4583-9752-e84a9ff897de,2025-11-09,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,1203.38,Approved,N/A
+0b27fe6c-013f-4704-a087-e6aff1938fa1,2025-01-29,33872c00-5a64-4de7-93b8-4e6365c45376,Gabrielle Whitaker,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,4133.22,Denied,Pre-auth Missing
+0e63f8a8-521f-4a3e-bebc-114f9032845d,2025-05-19,2ed3ca24-225b-49b8-8659-2064d2785455,Amy Stout,Dr. Hurst,Oncology,Lung Cancer,Treatment for Lung Cancer,3617.4,Approved,N/A
+296efbc2-c08b-4e57-8a47-9989a8ddf1e6,2025-10-16,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4573.97,Approved,N/A
+b5750472-ebd5-4c44-b247-ab5a523ffca1,2024-12-22,15e1afa2-8518-4894-9a24-d20acbd21507,Michael Woods,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,1501.01,Denied,Pre-auth Missing
+3e8ed929-82ef-428a-84da-581273e14f2c,2025-08-10,17e4d24f-3b81-43a8-bc55-d512e23b4101,John Perkins,Dr. Brown,Dermatology,Acne,Treatment for Acne,1404.51,Denied,Duplicate Claim
+98ef9d27-e767-46ea-9745-927d20473b91,2025-06-11,635fffad-ae51-47ef-9cc3-cb55a4578a99,Angela Rojas,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,1998.79,Approved,N/A
+0c750a86-97ee-42f0-98d4-9f6069bacdad,2025-05-08,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,3414.49,Approved,N/A
+673da001-4abc-4ab3-a1aa-60d04055cd6c,2025-07-26,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,3515.2,Approved,N/A
+255f26f6-f3aa-4fe9-8ead-f02409bc6bc5,2024-12-18,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,439.65,Approved,N/A
+ced0f6f8-4f59-4115-9d69-5099298209fb,2025-01-23,404e22c2-aa18-45a4-8a01-24568cae3c1b,Diane Ortiz,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,627.46,Denied,Incorrect Coding
+dae30434-7130-4a67-8242-4affb61d1f65,2025-01-16,63bf8669-2210-43f8-a236-f61816cedc6f,Charles Alexander,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,2726.67,Approved,N/A
+258aa1e8-158f-4907-8228-85547192c020,2025-10-24,90b37681-dc74-4c19-b961-04935f386dcd,Kevin Vincent,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,4012.92,Approved,N/A
+6840a6a6-5a45-46dd-ac01-957b06e8f5d0,2025-12-04,b66b2683-5581-43a0-bc36-366500db3459,Chad Benson,Dr. Perry,Dermatology,Acne,Treatment for Acne,641.62,Denied,Pre-auth Missing
+c72ea356-4151-46c3-a07d-f4a19fa23234,2025-04-01,5094bdf2-3332-4122-8b00-54d0ec9dd192,Derrick Smith,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,2980.2,Approved,N/A
+fdd7f56b-2dda-48f3-8d39-d278a52b0c7e,2025-11-14,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,1111.12,Approved,N/A
+6f21d56c-7b0e-4eb7-85df-852f7af16b5a,2025-11-25,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Avila,General Practice,Flu,Treatment for Flu,3296.06,Approved,N/A
+30222306-44c1-40aa-a99a-640dc5b26f4e,2025-05-09,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,685.82,Denied,Pre-auth Missing
+5db23bf7-e1bb-4737-a26b-dac97c66cb18,2025-04-27,d0214a1f-28e8-4e77-aaf0-e4da54bfae18,Sean Hayes,Dr. Moody,Dermatology,Eczema,Treatment for Eczema,1476.8,Approved,N/A
+e2f3b3ee-7eed-4770-b369-e0bb9a757eed,2025-05-15,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4216.2,Denied,Pre-auth Missing
+42378113-8e5f-4cab-aa70-a1a9c6657eb2,2025-02-28,613778f1-c829-40ea-b45a-c33578c96796,Stephanie Golden,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,2279.65,Denied,Duplicate Claim
+2e739bb2-268f-4232-9a46-28c1d043a2d6,2025-07-13,8a7f78fd-011f-45df-b3ab-aa8afd29f893,Sarah Brennan,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,2033.72,Approved,N/A
+49e10d87-fa52-4a2f-b5f2-fb2536159adb,2025-01-16,7899ae8c-abde-4a2a-8de5-a98693a8fe7f,Michael Russell,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,670.98,Approved,N/A
+33dc66a6-a582-4fb9-87e3-bc08cab78adc,2025-01-10,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,4067.47,Denied,Service Not Covered
+f7e700ef-f38e-4d73-928d-4187ae163b7b,2025-02-13,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,3519.69,Approved,N/A
+b69abb37-95c7-40e2-bd63-43fcb3aeebb6,2025-07-22,1d64d298-4356-4422-b1d7-c7b85cd2102f,Linda Cantu,Dr. Garcia,Dermatology,Acne,Treatment for Acne,1028.62,Approved,N/A
+39251bb0-bd93-4eb4-b9b1-467ab4613b17,2025-11-16,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,3313.52,Approved,N/A
+356cf2bd-3f65-4337-b702-24f9588ca06f,2025-06-09,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,2177.07,Approved,N/A
+b9046dcb-23ac-4944-ab67-e1006791da22,2025-05-06,f162faba-e9b7-4dce-8ef2-c0cc21ca3a5c,Justin Giles,Dr. Rodriguez,Pediatrics,Chickenpox,Treatment for Chickenpox,681.1,Approved,N/A
+fd24ea06-34ad-446b-a237-5a3a5fbf9d91,2025-04-22,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,2170.64,Denied,Pre-auth Missing
+f8640352-2837-4702-9b18-16397fd184a4,2025-01-20,1d5fe0e5-fa95-489c-8f4b-b89f5a8dfd99,Darren Mitchell,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,4239.71,Denied,Service Not Covered
+3e99d904-7e2c-42ad-a5f7-de750ae217e9,2025-09-16,7d5f9c36-a4a4-4778-b67c-0eff83be953d,Jason Wilson,Dr. Lowery,Dermatology,Acne,Treatment for Acne,2566.5,Denied,Duplicate Claim
+abd4b6fd-fab1-493d-956d-42f2640a7043,2025-05-27,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,2475.59,Denied,Duplicate Claim
+b3f61e1b-2606-4d73-92ef-6183f7f6dc0a,2025-07-08,15e1afa2-8518-4894-9a24-d20acbd21507,Michael Woods,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,4760.44,Approved,N/A
+62a4729e-44c9-4545-a2df-62eb19ad9419,2025-11-02,36ee532b-992e-494d-8ef6-f5366895b22a,David Mccoy,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,142.35,Approved,N/A
+f8b2d2cc-057e-4fa3-a2cc-01eebb40c62d,2024-12-09,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Pitts,General Practice,Back Pain,Treatment for Back Pain,4372.23,Pending,N/A
+a151b586-738e-49d3-a39f-2378aff4bca3,2025-06-29,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,3591.66,Denied,Service Not Covered
+b6cd1fe4-04c2-41b7-afc2-3e665a731dc2,2025-01-28,5a756c90-1840-4460-b161-0acd99dcba0a,Brandi Rogers,Dr. Cooper,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3679.27,Approved,N/A
+d9a0043d-6b9b-42ee-93a4-834126f8d68a,2024-12-11,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3044.91,Denied,Incorrect Coding
+7683e8de-6c7c-44b5-89e8-81ed2ef27bb8,2025-03-14,90b37681-dc74-4c19-b961-04935f386dcd,Kevin Vincent,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,4256.53,Approved,N/A
+9b7c49f1-1f9b-45c3-bc0b-d8a2b68cc212,2025-05-09,77e0e6bc-1d3a-4f75-9fc7-b5918ea55c5f,Joseph Hill,Dr. Garcia,Dermatology,Acne,Treatment for Acne,489.57,Approved,N/A
+7932d302-6a9c-43c5-a2b0-7ac2bbe077c9,2025-01-29,d975d23f-72d8-4d60-9628-875ba730e9bc,Karen Mcclain,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,2353.17,Approved,N/A
+18728601-7af1-4c02-9a11-577195647014,2025-07-17,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,3942.59,Pending,N/A
+f0494d09-3db9-4de7-ade1-58297585cb63,2025-04-09,9413aba7-b17d-40b3-abc0-1ace5a05811e,Keith Rodgers,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,2908.0,Pending,N/A
+8c212d12-4749-4239-9516-8350ea01fde8,2025-10-20,08dd03d4-dfe3-4dbf-a81b-40d57ad0f591,Robert Atkinson,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3266.12,Approved,N/A
+409244ea-5e8b-42d5-9c4f-86487f946835,2025-11-26,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,2662.54,Approved,N/A
+f54fe883-b63f-432e-9291-a065e8118d10,2025-05-20,774571ae-b33d-4412-9d17-61ebe4eefa79,Edward Smith,Dr. Smith,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,674.23,Denied,Service Not Covered
+89550a22-1319-41b1-a6d5-db76b9f02889,2025-10-03,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Torres,Orthopedics,Arthritis,Treatment for Arthritis,4457.88,Approved,N/A
+de98c045-64f1-4c7e-a588-d1956fa5f86f,2025-09-26,e2890b7d-e119-41c3-ac04-6cc81927849d,Riley Morgan,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,2568.04,Pending,N/A
+be178930-36f6-48b0-bc84-2c2d8f232c71,2025-03-09,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,4800.25,Approved,N/A
+30d181d8-5457-42ce-a6ae-6be305008bdf,2025-05-03,79eee176-c6bf-44ef-8169-2f8ccf6060ff,William Vargas,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,918.27,Pending,N/A
+1182bbd7-2d44-4fd4-b1fc-20118088b68b,2025-01-23,06b443cb-b0fb-411e-b753-0e3cf747d696,Melissa Pacheco,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,2153.61,Denied,Duplicate Claim
+41a993a2-2783-4e77-b4aa-1dc6ef993a3b,2025-03-13,5d75ed5c-fbe9-4944-af52-7384d787a5be,Jessica Wells,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,252.22,Approved,N/A
+47206fd0-a89d-4e4a-828e-0216a4f46c8a,2025-10-14,8b148351-97d2-4ca3-a5c9-4dd5668d5233,Eric Combs,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,913.7,Approved,N/A
+e6a54b86-9a05-464d-a013-97f722b6b31e,2025-09-17,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Farley,Dermatology,Psoriasis,Treatment for Psoriasis,2808.38,Approved,N/A
+ae541068-3817-43ef-86ae-539c6d3da441,2025-09-11,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Avila,General Practice,Back Pain,Treatment for Back Pain,1668.66,Approved,N/A
+95f60341-ad15-470c-8dde-694c07acd671,2025-09-14,9b146d69-257a-4e2e-9983-99ebb38825d0,Daniel Carter,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,4637.33,Approved,N/A
+1d0b18c1-6e89-4357-927d-3334d76be8c5,2025-06-21,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,3782.97,Denied,Duplicate Claim
+b03a0e92-ddb3-45c5-baa7-0f9ad9a086e0,2025-02-18,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,4191.53,Denied,Service Not Covered
+21caf71d-b4cc-46b2-96fc-75691972bd24,2025-07-24,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,2411.39,Approved,N/A
+1458fc25-711f-4ae7-832a-f1297924c5f7,2025-08-14,4435f8e8-732b-40ed-9922-98b6d9b821f2,Spencer Williams,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,4449.49,Denied,Service Not Covered
+11612327-30df-4d1e-9812-90bc134f31b0,2025-09-30,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,107.26,Denied,Pre-auth Missing
+1a2c28b1-4520-45c1-88c4-44bf58ed60c6,2025-03-27,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Durham,General Practice,Back Pain,Treatment for Back Pain,682.95,Denied,Incorrect Coding
+23c52dd6-f2c4-4902-b6a5-74d5b434be88,2025-06-08,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1080.98,Denied,Incorrect Coding
+d1b910cf-828c-459a-b82b-e3d801c30334,2025-01-17,1d51d146-34c7-46e4-b851-c8731fa3f4bc,Wendy Foster,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,3444.65,Approved,N/A
+1826801b-5d86-4274-979a-bb28cb4d7a28,2025-05-19,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,751.45,Approved,N/A
+bb8fe676-d03c-4959-9332-82e136a8951e,2025-08-19,7b02e3f3-99c7-4261-91d6-ecd56cd24fed,Mr. Scott Hale,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,3073.82,Approved,N/A
+a6ca3214-59d2-49f8-a547-a4396c8ee9f3,2025-01-08,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,1271.12,Approved,N/A
+70fccec6-32e1-4aac-8a8d-36cf601b03bc,2025-05-02,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,876.49,Denied,Incorrect Coding
+dfeb12b1-7d31-4884-b758-ed341c18b4e1,2025-03-28,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,1543.04,Denied,Incorrect Coding
+e246a996-6c9f-483f-815e-5f5c905473f7,2025-08-10,e4a5de56-3117-424f-a146-3c7dabf1b324,Charles Brooks,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,2873.06,Denied,Incorrect Coding
+e5f9a8fc-b189-450a-9b2e-5e81b04ac2e6,2025-07-25,1391012c-b4ec-4220-8621-ff73210235ee,Danielle Johnson,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,3986.57,Approved,N/A
+17f45917-1e4e-41cc-be94-b6668f21d71c,2025-10-05,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2998.38,Approved,N/A
+193d0fa7-5df6-4c62-9477-83144fea0dfe,2025-02-10,9b146d69-257a-4e2e-9983-99ebb38825d0,Daniel Carter,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4947.84,Approved,N/A
+1c1c2a5f-f177-4047-b9a1-fb0c27038585,2025-01-30,f65cf903-1647-4687-9758-d7a52f0fda54,John Brown,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,2523.79,Approved,N/A
+5b1706ed-7153-4d85-b835-8e8f655deaa6,2025-02-16,2bd4c3cd-e76f-472d-822e-1eed8e7b97c2,David Payne,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4786.31,Approved,N/A
+2f186147-38bb-402a-8017-a37373afe8fb,2024-12-12,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,2647.49,Approved,N/A
+5a54da69-13f2-46e6-86de-3d77b3592c06,2025-04-21,9fde7ec1-3cc2-43ce-8f47-876438cc02a5,Scott Logan,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,3567.83,Pending,N/A
+4a5383f8-d8ab-4649-98ce-d727f81331e3,2025-10-14,79716028-8f74-49b2-98cb-9fbeabd0e0e0,Kenneth Hardin,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,3552.43,Approved,N/A
+b4998184-7d64-4dfc-87b8-0c99e99a688a,2025-01-16,3cd4a8c7-e3dc-4969-946c-93031aebe651,Shawn James,Dr. Meyer,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2360.06,Denied,Pre-auth Missing
+72c9a613-02d7-4356-9d97-7e98858ea8ce,2025-02-17,02649d6b-f45a-4757-8884-1764080448e8,Vicki Horn,Dr. Myers,Dermatology,Acne,Treatment for Acne,1700.7,Approved,N/A
+419533db-d570-4c4e-8f4c-2261720011dc,2025-01-29,b797887c-a97d-42b6-8522-60c554aef600,Amy Lopez,Dr. Vang,Dermatology,Psoriasis,Treatment for Psoriasis,4843.6,Approved,N/A
+1f29c29b-315b-453f-89a2-8563f80b8e4a,2025-05-27,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Doyle,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,472.93,Approved,N/A
+3e27be23-bd15-4dfd-a4b6-75fa61db9692,2025-01-17,6b2844ec-a96b-4160-9c62-4b1a7fe1712e,Lucas Jackson MD,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,3515.41,Pending,N/A
+f0d9cc80-3673-4b54-8e5b-8ed5e96b35ae,2025-08-10,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,2367.08,Denied,Incorrect Coding
+a2274ec6-19df-4bd2-b9dc-67578f211941,2025-12-03,295c5d80-13a3-43c0-9541-54f55db680d7,Todd Smith,Dr. Mendez,Dermatology,Psoriasis,Treatment for Psoriasis,1172.09,Pending,N/A
+fd94139b-35bc-439a-86f0-142705cb17f6,2024-12-18,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,4156.35,Denied,Pre-auth Missing
+7ef8dc59-e716-4a07-a298-bbe4572a0d80,2025-06-04,c1c443b7-4965-41a8-bb8a-df852cdba65e,Laura Martinez,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,175.74,Approved,N/A
+6719db69-ebf9-4a23-afe9-c40c157eb55b,2025-11-25,a311a29d-1bef-4781-a675-0d4caa1a39fd,Anne Zuniga,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1689.33,Approved,N/A
+3bbf2c1a-7d83-4394-87ef-5e1c54fd99d1,2025-06-20,8e6bb570-aef6-48e0-9fbd-4c0c0647e3b6,Nathaniel Tran,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,4605.57,Denied,Service Not Covered
+ec269eec-403b-435b-af2b-feeb29e817c4,2025-03-15,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,4309.83,Approved,N/A
+9764dd02-ca60-4821-9562-4b64aa7d6f7f,2025-04-17,c738ecbc-eb5b-4141-966a-54350630fe57,Christopher Baker,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,3595.63,Approved,N/A
+378e88f4-2a0b-459f-9007-face2bdafd50,2025-09-08,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,688.53,Approved,N/A
+646aaae7-7a09-4bd0-ac97-457a2984c943,2025-03-10,c738ecbc-eb5b-4141-966a-54350630fe57,Christopher Baker,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,2443.15,Denied,Duplicate Claim
+6f3996d2-620e-4b3b-b0dd-365f38515706,2025-05-15,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Montgomery,Cardiology,Heart Failure,Treatment for Heart Failure,4019.29,Denied,Service Not Covered
+b0db2300-f4aa-4f92-99ab-486dcbe80bff,2025-09-06,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,3237.42,Denied,Pre-auth Missing
+da0e61bf-1825-48ec-878e-37b56afa5efd,2025-10-02,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,3253.89,Denied,Pre-auth Missing
+4ef1a946-af89-4942-8a7e-c359f6a30cd0,2025-07-06,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,214.58,Denied,Duplicate Claim
+02ddaab2-e959-4379-bcfa-5f5609ef977c,2025-02-04,9413aba7-b17d-40b3-abc0-1ace5a05811e,Keith Rodgers,Dr. Cooper,General Practice,Back Pain,Treatment for Back Pain,1496.92,Approved,N/A
+a4b296c1-d507-4b80-9258-e16b5bb33b2e,2025-07-26,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,4574.51,Approved,N/A
+f095d47e-c57e-4251-882e-0b2e60f4d1a0,2025-02-24,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,1660.68,Approved,N/A
+502753e3-9719-471d-bb59-7a3e8b1e6dd3,2025-01-16,dd38f35f-90d1-4f3b-ad85-34a983306f5c,Sarah Silva,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,3559.95,Pending,N/A
+be20287b-7846-4ee2-9a56-3ef312622618,2025-06-23,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1448.59,Approved,N/A
+cd5f49dd-3a48-489a-8416-c22e5bfd00aa,2025-11-30,8f64017a-6394-47b4-908e-fc25ee56f3a8,Nathan Jones,Dr. Montgomery,Cardiology,Heart Failure,Treatment for Heart Failure,4504.26,Denied,Service Not Covered
+13aa1f8a-8b5d-4195-aba5-24a1bf40c624,2025-04-07,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Durham,General Practice,Back Pain,Treatment for Back Pain,2073.74,Denied,Pre-auth Missing
+7ffa237c-3ad9-4750-98e4-3522852b7a11,2025-02-19,94f7e4f5-e4c0-4135-ac41-a98049e77d1e,Cynthia Flores,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,3509.32,Approved,N/A
+54c94434-5475-4500-97fa-4092f8f3b2ed,2025-01-03,2e3c3228-878f-47fc-8c19-c52425c20620,Kelly Ramirez,Dr. Durham,General Practice,Flu,Treatment for Flu,1087.11,Approved,N/A
+ee5ba888-a480-4ab9-b6e1-65f44e35bd2e,2025-08-06,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,1254.72,Denied,Pre-auth Missing
+1ffdbe68-64b3-4f28-afef-27dde1f9dce0,2025-05-27,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,949.92,Approved,N/A
+479ebf1f-fec5-446c-8d59-3ddd78324eac,2025-04-21,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,1449.09,Approved,N/A
+fd0db70c-dc87-4aa3-a7b1-97204a7e3af9,2024-12-24,2b98a891-73c0-4cbc-a68c-d8a42729d665,Sandra Spence,Dr. Franco,Pediatrics,Chickenpox,Treatment for Chickenpox,2971.38,Approved,N/A
+4c07616d-4ef7-40e9-a34e-3cd6b761ccf1,2025-09-21,b66b2683-5581-43a0-bc36-366500db3459,Chad Benson,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,3760.02,Denied,Service Not Covered
+89145f52-e6c8-4c93-a106-d9c715ea71d4,2025-05-11,57101cdc-bf53-4d92-bd01-7bb8775f151d,Jasmine Fernandez,Dr. Myers,Dermatology,Acne,Treatment for Acne,3728.66,Approved,N/A
+15adfe53-d340-426d-8003-2fc9a2d1e5f5,2025-03-10,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,1173.2,Approved,N/A
+d25c4134-072b-4669-be6f-0d9983dcfbd3,2025-08-24,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,4365.78,Denied,Duplicate Claim
+9f42f095-7740-44da-b022-bb726fc0b8c5,2025-06-17,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,1041.99,Approved,N/A
+3d16da88-ff4c-498b-aa51-82c9f5e219e4,2025-04-01,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,136.57,Denied,Service Not Covered
+83238e4a-72e1-448b-98e4-524be429f15c,2025-04-02,2b98a891-73c0-4cbc-a68c-d8a42729d665,Sandra Spence,Dr. Johnson,Orthopedics,Fracture,Treatment for Fracture,1807.34,Approved,N/A
+cf7c567f-287d-4182-a42a-b4f2cd83625a,2025-04-04,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,389.13,Denied,Incorrect Coding
+c2182139-b239-40b8-ae17-4e5ef663832a,2025-02-01,eddc424c-ee17-4f3d-a773-ccf49a2664f2,Kevin Rosales,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3064.14,Approved,N/A
+5c1349c4-e1dc-4aae-824a-a96e59a6bff2,2025-06-02,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,3066.04,Pending,N/A
+4d1e89fc-0152-4e3c-bdb5-37cb4ac8ac86,2025-06-05,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1673.21,Approved,N/A
+7edfb48b-6408-4473-85fb-2bb57c1b0e7c,2025-06-01,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,2426.29,Approved,N/A
+006a84c8-30da-488d-899b-e0b622d480d9,2025-01-05,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Patton,General Practice,Flu,Treatment for Flu,3868.65,Denied,Duplicate Claim
+e913e8ed-b69d-4904-acf3-8312b4f053f3,2025-11-17,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Mercado,Pediatrics,Chickenpox,Treatment for Chickenpox,4075.71,Denied,Service Not Covered
+b229d007-d75f-40f3-93df-f5a8f9a4c2fb,2025-02-01,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3209.52,Denied,Duplicate Claim
+0ba36703-d014-4a67-bb7e-8e4c5f620ca8,2025-07-25,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Cochran,Oncology,Lung Cancer,Treatment for Lung Cancer,902.0,Pending,N/A
+e6e36e93-09de-4292-a7da-375583daa780,2025-03-26,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,2293.27,Pending,N/A
+ba76dd66-d469-49ce-aacd-5eba5780b149,2024-12-31,1bd96d68-9064-45c8-8f3f-9d06f4abab09,Misty Jones,Dr. Cooper,General Practice,Back Pain,Treatment for Back Pain,4166.38,Denied,Service Not Covered
+fa0a136c-3d8d-4439-8f8e-424a5b90708a,2025-09-19,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,2175.92,Approved,N/A
+c1cd502c-be64-40ea-8247-b0716164a201,2025-07-09,94f7e4f5-e4c0-4135-ac41-a98049e77d1e,Cynthia Flores,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3112.73,Approved,N/A
+08931d9f-1d76-4d0b-9afd-3805c7a26d57,2025-02-22,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,283.69,Denied,Service Not Covered
+b02e1bab-1f25-44d6-9303-e037fc8c8e30,2025-01-08,3cd4a8c7-e3dc-4969-946c-93031aebe651,Shawn James,Dr. Avila,General Practice,Flu,Treatment for Flu,2838.04,Approved,N/A
+828b5605-eaf6-4a67-8255-9336ae3548d6,2025-11-22,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,1412.47,Approved,N/A
+3cdc092a-39d0-4ce8-a4c2-33dadc9ab913,2024-12-11,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,1389.21,Pending,N/A
+e1797327-534e-4638-99c2-87e90bfb2461,2024-12-26,6b2844ec-a96b-4160-9c62-4b1a7fe1712e,Lucas Jackson MD,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,375.67,Approved,N/A
+e197d2c5-eeb6-4b32-888f-e674c0553ae5,2025-09-13,701c7676-6540-4592-b886-e7915e137cc3,Alison Ramsey,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,3450.25,Approved,N/A
+a4029878-d07d-40ff-ae94-6296daac46e6,2025-03-10,bd86c2e9-cb95-4afe-b98d-0dabccf72bd7,Christopher Cruz,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,808.1,Approved,N/A
+dd0a6527-f038-4c31-89ef-b1bfa464dde1,2025-08-25,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,3613.75,Approved,N/A
+612d1afd-ce0d-4ea6-bfda-4f21fee7511a,2025-10-09,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,2942.61,Approved,N/A
+6f3a127f-7745-4e80-96e1-77b4587eb7c2,2025-04-10,7728494b-87de-4941-9e94-2f46270aa25b,Jose Johnson,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,3133.53,Denied,Pre-auth Missing
+0e0432e5-847a-48ae-9b3a-c5bf1c2ae61a,2025-10-11,106d374b-b10b-4d60-ac4c-b2ae87ee75d1,David Taylor,Dr. Howard,Oncology,Breast Cancer,Treatment for Breast Cancer,2324.17,Approved,N/A
+ffd6dfa5-3f95-4cd8-ab64-c236088a3334,2025-09-14,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,4877.74,Approved,N/A
+ecb7d4cc-5d93-4fe0-99c6-7429a6f9771e,2025-03-27,4435f8e8-732b-40ed-9922-98b6d9b821f2,Spencer Williams,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,3825.15,Denied,Service Not Covered
+6aded971-c384-48e4-9c4d-85a3943a107d,2025-05-18,404e22c2-aa18-45a4-8a01-24568cae3c1b,Diane Ortiz,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,1275.58,Approved,N/A
+c836c8ca-3905-4814-a56b-6cb163c3bc6a,2025-03-11,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Hammond,Dermatology,Acne,Treatment for Acne,2362.06,Approved,N/A
+f9b3d672-191b-424f-8b0e-bfcb585dd229,2025-10-14,41733b16-5b06-4239-a222-8745201e40a7,Timothy Hill,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,3566.22,Approved,N/A
+77773e40-824e-4b6b-8c79-e370bd4d278c,2025-02-17,b7f13733-e123-498e-b881-84fe7491f23f,Ernest Austin,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,765.67,Pending,N/A
+3048d1fd-4faa-453d-8de8-cac4258bba69,2025-08-08,7ed878d2-9731-4b88-8861-d408280049c9,James Rhodes,Dr. Rodriguez,Pediatrics,Asthma,Treatment for Asthma,869.48,Denied,Pre-auth Missing
+558d9cbf-9114-41de-bdd5-a0b4d22214a8,2025-10-30,437641a5-8fb0-4828-95ef-a3175fbb3fb5,Adam Bradley,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,3630.39,Approved,N/A
+bb9501af-af03-4b1e-b25c-79137f287ae9,2025-01-29,f5544778-b84e-4546-b145-7672edecd3a4,Kelly Moore,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,4474.37,Denied,Incorrect Coding
+53ff0999-516f-4752-8cf2-485a30972f9d,2025-05-27,92271a67-f391-4d8e-96ed-a1618966102c,Jacqueline West,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,2518.18,Denied,Service Not Covered
+71403d80-fdc2-4928-a9fb-d3dd8de4f170,2025-10-18,e2890b7d-e119-41c3-ac04-6cc81927849d,Riley Morgan,Dr. Franco,Pediatrics,Chickenpox,Treatment for Chickenpox,1600.4,Denied,Incorrect Coding
+a624a7eb-cb97-45c6-a476-5ba9e2411a30,2025-10-25,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Mcgee,Dermatology,Psoriasis,Treatment for Psoriasis,4613.68,Denied,Pre-auth Missing
+8ed719a0-3453-465b-9a54-d6b1f600daa1,2025-03-09,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Torres,Orthopedics,Arthritis,Treatment for Arthritis,3642.53,Denied,Pre-auth Missing
+0553fcb0-20e6-4db0-a6c9-5957e5a7330d,2025-05-02,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,2934.39,Pending,N/A
+b17caaf8-f3b4-4219-91b7-3d99674ac755,2025-02-04,81d2beda-a354-4bcf-ac40-5f79ffb583de,William Murphy,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,2849.65,Approved,N/A
+79ac3aa8-47b8-477d-85b9-eb1e5a8bf8e7,2025-11-14,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,4923.92,Approved,N/A
+ffd39d60-91cd-4777-b7d0-76c837bdd615,2025-07-02,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,581.67,Approved,N/A
+bf1b0054-229d-4a9b-bec8-67e1ec22319d,2025-10-03,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4496.15,Approved,N/A
+4f5b2144-3345-43c7-a21c-fc3428d7651f,2025-08-02,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Garcia,Orthopedics,Tendonitis,Treatment for Tendonitis,906.51,Approved,N/A
+e72900b4-fbb1-4c03-966a-ef560505df29,2025-06-04,8374334d-405f-4f76-8195-224a970c12b9,Jenny Barry,Dr. Perry,Cardiology,Hypertension,Treatment for Hypertension,367.5,Approved,N/A
+11c97396-b1ad-4413-affa-df72a15e319b,2025-07-23,613778f1-c829-40ea-b45a-c33578c96796,Stephanie Golden,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,1852.4,Denied,Pre-auth Missing
+45cc01b3-7879-4635-ac2f-ad686b7fd6fc,2025-02-02,5c57b088-e4e9-448a-af17-ba1bf8622698,Tiffany Williams,Dr. Avila,General Practice,Back Pain,Treatment for Back Pain,2851.95,Denied,Incorrect Coding
+29d13af0-51a7-4d45-b30c-b6dc308fdf91,2025-04-19,43daa970-5287-43f8-ad0d-06ad6903fcfd,Jeremy Christian,Dr. Johnson,Orthopedics,Arthritis,Treatment for Arthritis,2195.86,Denied,Pre-auth Missing
+d788f99b-43fd-4371-9151-af5ca2ba5b51,2025-08-07,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Franco,Pediatrics,Asthma,Treatment for Asthma,4910.84,Approved,N/A
+4e0fb04c-4eef-4f29-9b5b-c36f0fc46588,2025-04-25,33872c00-5a64-4de7-93b8-4e6365c45376,Gabrielle Whitaker,Dr. Meyer,General Practice,Flu,Treatment for Flu,3769.59,Pending,N/A
+bfc0e95c-3375-4fb2-9c7b-e0f7e2e0fa72,2025-06-02,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,1253.79,Approved,N/A
+d3f496e1-4e23-492a-86ec-268acb04c5d7,2025-03-31,eb89c764-85a0-4822-b4fc-a996d319235d,David Pierce Jr.,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,1526.77,Approved,N/A
+36ed96bd-a4ec-4789-bb88-d22bc1e7bd88,2025-08-20,c738ecbc-eb5b-4141-966a-54350630fe57,Christopher Baker,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,1538.66,Denied,Duplicate Claim
+6e30b12d-69cf-4deb-bc15-b09b663f43f2,2025-07-25,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,1965.56,Denied,Pre-auth Missing
+896d1390-ccde-48b3-a71b-b461ba496c0f,2025-09-17,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,953.97,Pending,N/A
+01273786-87c3-4ddf-8342-3d8beece20e0,2025-03-23,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Garcia,Dermatology,Acne,Treatment for Acne,3836.12,Pending,N/A
+b9fe2db2-3057-435f-95d6-68ef4b49cd96,2025-07-19,8f8baea9-3cd7-4599-9568-6199215e37d1,Daniel Garcia,Dr. Walter,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2084.62,Denied,Incorrect Coding
+f7fd95de-734b-4a79-8ed1-ae5b5f7eac4d,2025-05-08,59e8ccc8-41a8-4057-85b9-897de5f61a27,Jennifer Martinez,Dr. Brown,Dermatology,Acne,Treatment for Acne,2801.61,Approved,N/A
+f82560f2-39d9-4ec7-92d1-a4343b393a07,2025-07-10,dc61480a-4fa4-4be2-b81f-69326f9b642b,Bridget Wolf,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,3627.67,Approved,N/A
+9e347ad7-e9fb-40b6-8066-b510898e00d3,2024-12-18,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Foster,Orthopedics,Arthritis,Treatment for Arthritis,4670.84,Approved,N/A
+ac4b1f47-3f72-4a98-a1d9-9ffa19652b72,2025-02-26,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,3632.46,Approved,N/A
+e4535705-0ddd-4155-9d23-ebd79e976002,2025-11-21,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,3438.08,Denied,Pre-auth Missing
+7192b288-7baf-4757-9242-236d7445e71a,2025-10-27,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,1765.05,Approved,N/A
+a7590ddf-6f46-4106-9873-9638339c184b,2024-12-15,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,3632.01,Approved,N/A
+43f5d5c3-2cf5-4ff6-ab42-9f3789ddaa50,2025-06-19,8b148351-97d2-4ca3-a5c9-4dd5668d5233,Eric Combs,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,4748.89,Approved,N/A
+42d7428f-404c-4365-8176-70a7da288ff2,2025-10-22,8a60f2f3-bf25-454d-b952-194cf6e31ad9,Heather George,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,2879.54,Denied,Duplicate Claim
+7072f348-2f89-4c52-a732-a27f0755ea3e,2025-07-16,668ed24f-53cd-4348-b971-77769ee8bc0d,Paul Wood,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,1807.8,Denied,Incorrect Coding
+f5919d42-7268-4335-a593-46c6e0750dbd,2025-10-14,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Patton,General Practice,Flu,Treatment for Flu,2248.64,Pending,N/A
+6d612a6a-8581-46eb-a0e5-07fd7f82816a,2025-03-14,79716028-8f74-49b2-98cb-9fbeabd0e0e0,Kenneth Hardin,Dr. Lewis,Dermatology,Eczema,Treatment for Eczema,2144.11,Approved,N/A
+0a4623c5-299b-4762-a457-f2b916e3b1a2,2025-04-05,66e61c87-874a-4f8e-8620-7fc431df9a14,Susan Davis,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3344.62,Denied,Pre-auth Missing
+2c8d6540-2316-4220-b0c6-f47bf3a424ef,2025-05-09,e2388d39-9394-46e2-8911-7cb55571c5b6,Thomas Fisher,Dr. Roberts,Dermatology,Acne,Treatment for Acne,2026.87,Denied,Duplicate Claim
+77338ad6-5606-466b-839b-c75222607443,2025-10-04,a3208ed0-b651-4d15-b784-f0c787605099,Dennis Williams,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,696.98,Approved,N/A
+54047de0-6a3f-4745-b2c2-fe761b147aa0,2025-08-05,1134694f-7e56-41a4-9eca-978d61128936,Barbara Byrd,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,3895.95,Approved,N/A
+bc5cc028-4ff5-4fa8-ab3d-5dc7864dfd3e,2025-09-03,f162faba-e9b7-4dce-8ef2-c0cc21ca3a5c,Justin Giles,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,2770.84,Approved,N/A
+05a29261-343c-4d52-9599-ffcdb443ba27,2025-10-23,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,3899.47,Pending,N/A
+ba587a4d-f8a2-44e7-9bd4-e0a33832f9f3,2025-03-31,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,1913.66,Approved,N/A
+87e4d1d8-77c6-4186-88e0-32cad456ea61,2025-01-08,701c7676-6540-4592-b886-e7915e137cc3,Alison Ramsey,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4250.23,Approved,N/A
+e66f383e-f094-4593-8b56-6d722bdf6bb5,2025-02-24,7cff07c9-283d-4312-8dc3-d5c532c0831c,Kirsten Cole,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,3418.38,Approved,N/A
+e67cf9ff-0fec-43b6-ba84-4bc5d6da32fe,2025-10-07,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Garcia,Dermatology,Acne,Treatment for Acne,2392.79,Denied,Service Not Covered
+183dad52-9d23-42a2-b7c1-23312a71babc,2025-09-24,62897400-9444-4071-9173-0e6112270f94,Jermaine Mitchell,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,1434.06,Approved,N/A
+f91db085-5bab-41d6-9b64-54887d31f4e8,2025-08-26,6fe2b18a-00ac-4d98-b80a-183e2862ff5e,Douglas Campbell,Dr. Marshall,Dermatology,Acne,Treatment for Acne,1954.14,Pending,N/A
+7d15942a-f9ee-4d61-9de1-18551e231050,2025-07-14,3d156d58-7f44-447c-8e5b-cfa1d7a2e618,Michael Lee,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,4608.1,Approved,N/A
+8e63a3b9-d4e5-4474-8eae-8276b83d267a,2025-04-19,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,1535.14,Denied,Pre-auth Missing
+4b8d16af-d007-4a45-9f5b-26f2201973d4,2025-02-17,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,931.23,Approved,N/A
+de8d5088-b208-49bc-a1de-25d55c64f3e1,2025-07-24,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,2103.17,Approved,N/A
+3bfc29bb-825e-479a-8eb3-d323059b94ce,2025-10-03,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,2320.94,Approved,N/A
+712e1c11-04f8-47f2-a92d-6f37ff5a9b99,2025-02-01,635fffad-ae51-47ef-9cc3-cb55a4578a99,Angela Rojas,Dr. Patton,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4257.61,Approved,N/A
+2c8cb62d-9d61-467e-a586-6920b5d8533e,2024-12-10,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,1376.52,Pending,N/A
+66edde48-ba5b-4c4f-ad3e-2bc572cc4eae,2025-09-12,90447c0f-be58-45c9-a3d4-0d824196d6c8,Eric Avila,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,3145.26,Denied,Incorrect Coding
+158c58c0-e363-4730-a316-5221f4ec4529,2025-01-01,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,1021.17,Denied,Service Not Covered
+c33c9f4a-125b-4567-9f83-a75307eca514,2025-06-12,dc61480a-4fa4-4be2-b81f-69326f9b642b,Bridget Wolf,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,636.83,Pending,N/A
+3a12bc57-9f5a-4aba-8a0c-62759088fc41,2025-04-22,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Rodriguez,Pediatrics,Chickenpox,Treatment for Chickenpox,981.1,Denied,Pre-auth Missing
+be479165-e99d-4547-9796-7f3b06e1a8e3,2025-04-05,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Pitts,General Practice,Flu,Treatment for Flu,4341.55,Approved,N/A
+38323a09-531d-4919-bfe8-3eb1b35f0bba,2025-11-06,50e66922-3469-4405-9b10-f1c8c33224df,Kathleen Richardson,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,4309.51,Approved,N/A
+fd0f8016-e11d-4cd4-b9ec-1282ead23136,2025-05-02,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,280.54,Pending,N/A
+cbb1e3fc-aee3-452a-baa6-8626840fa56a,2025-06-15,1d5fe0e5-fa95-489c-8f4b-b89f5a8dfd99,Darren Mitchell,Dr. Mcgee,Dermatology,Eczema,Treatment for Eczema,2550.49,Approved,N/A
+3e00599f-deb6-4278-83c1-a71f8bbc1212,2025-06-21,1391012c-b4ec-4220-8621-ff73210235ee,Danielle Johnson,Dr. Farley,Dermatology,Acne,Treatment for Acne,3194.71,Denied,Incorrect Coding
+aca1b481-a962-4fc2-8faf-16bb7d7066cf,2025-09-22,8e6bb570-aef6-48e0-9fbd-4c0c0647e3b6,Nathaniel Tran,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,3151.85,Approved,N/A
+71371a73-65f1-430f-b673-361255c5cd03,2025-07-30,f5544778-b84e-4546-b145-7672edecd3a4,Kelly Moore,Dr. Moody,Dermatology,Acne,Treatment for Acne,802.27,Approved,N/A
+36e5a423-aae7-4051-a856-d7dbe5a2a70f,2025-06-11,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,636.48,Approved,N/A
+96549d50-9ffd-42ae-8880-dfafd85f7f90,2025-02-20,36ee532b-992e-494d-8ef6-f5366895b22a,David Mccoy,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,3077.85,Denied,Duplicate Claim
+a587bf35-134b-4fa3-afe8-bb13058102aa,2024-12-31,2bd4c3cd-e76f-472d-822e-1eed8e7b97c2,David Payne,Dr. Vang,Dermatology,Acne,Treatment for Acne,3907.35,Approved,N/A
+68f24091-0d60-476c-8272-184c7a3eba1c,2025-11-30,35dcf82e-213f-49a5-91da-28f90d95f392,Brandy Ware,Dr. Patton,General Practice,Flu,Treatment for Flu,3773.87,Denied,Duplicate Claim
+4a7f65af-e1ac-4c69-b3ce-665d6d497e0c,2024-12-28,e2388d39-9394-46e2-8911-7cb55571c5b6,Thomas Fisher,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3432.47,Denied,Incorrect Coding
+b014c352-0528-4f9e-a8fe-3df8d47c27af,2025-03-25,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,3668.95,Denied,Pre-auth Missing
+c25a8577-d22b-4086-b1bb-ab245a28feea,2025-11-24,8a60f2f3-bf25-454d-b952-194cf6e31ad9,Heather George,Dr. Mendez,Dermatology,Eczema,Treatment for Eczema,3841.58,Denied,Duplicate Claim
+3e2e4777-a7c9-4c54-8829-c63d0eacff53,2025-10-09,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Foster,Orthopedics,Fracture,Treatment for Fracture,3363.29,Approved,N/A
+99ade2d6-9bb2-4866-94e0-5ead1902d1d0,2025-10-06,02c32da3-0404-42cf-b876-fbf7a0298fe1,Samantha Wallace,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,881.92,Approved,N/A
+bb727788-110d-4537-bf6e-060a1b9c0df5,2025-12-03,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,4959.05,Pending,N/A
+7d2d96dc-8e3a-4ad2-8dd5-e96651bcbd39,2025-11-27,1d51d146-34c7-46e4-b851-c8731fa3f4bc,Wendy Foster,Dr. Tate,Pediatrics,Asthma,Treatment for Asthma,849.4,Approved,N/A
+54c56caa-4413-4a3a-9838-f79e9a673499,2025-01-11,f0fe9965-ef14-47e8-885e-111fdfc509c1,Gina Lewis,Dr. Walter,General Practice,Flu,Treatment for Flu,406.82,Denied,Service Not Covered
+a2546def-1b89-4f25-b88d-a2ca92651683,2025-09-19,62ceccd5-933d-4c42-acb1-c7f11e293b50,James Patterson,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,1636.64,Denied,Duplicate Claim
+8d5cdb5c-d92d-429f-8166-52698ae5ff13,2024-12-19,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Moody,Dermatology,Acne,Treatment for Acne,4468.41,Approved,N/A
+54c57432-6c15-4c14-976f-a1438781e2d0,2025-10-18,14b44f62-2807-4c62-9df7-ce92308e4fb7,Heather Wilson,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,4935.46,Approved,N/A
+42500521-10b8-47e6-ba1f-64af39f673d7,2025-07-04,14b44f62-2807-4c62-9df7-ce92308e4fb7,Heather Wilson,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,3638.64,Approved,N/A
+d2f0d0b3-c19a-409b-9d70-bcd82fb72f49,2025-10-31,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3690.1,Approved,N/A
+ce085c30-562c-4bcb-85a9-3646647fcb16,2025-02-04,1cc56e5b-ea6a-4399-90b6-3739158be396,Kara Tran,Dr. Norris,Dermatology,Acne,Treatment for Acne,227.52,Approved,N/A
+44988e22-4d80-4ad6-a8c1-399a25439e4a,2025-03-14,6e9a51a2-d1db-4473-9b14-e7459717ded8,Leonard Allen,Dr. Smith,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1658.24,Denied,Pre-auth Missing
+939e9742-bf80-4971-b12b-87a017efaaf9,2025-07-13,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,4732.31,Approved,N/A
+c73dee6c-9a35-4588-a96b-0e0bd3795f92,2024-12-30,ffcb4780-f870-495e-a87c-c61c23e5b0c1,James Barajas MD,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,4456.38,Denied,Incorrect Coding
+abe82a96-9fb3-456d-a5a2-39b68357ad27,2025-10-20,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,4261.99,Pending,N/A
+58181bae-73fe-4778-b0c3-9a2239683a8f,2025-05-11,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,4579.46,Approved,N/A
+31f8054d-7e24-49ed-b43d-d129f2ef80ec,2025-06-18,c1c443b7-4965-41a8-bb8a-df852cdba65e,Laura Martinez,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,4960.49,Pending,N/A
+e19f5c76-4375-4033-ad6f-b9eaeb919b9d,2025-11-11,fed1cbe6-dd1d-4c42-bd7d-f272e940ae4f,Joan Mathews,Dr. Lewis,Dermatology,Psoriasis,Treatment for Psoriasis,1047.43,Approved,N/A
+fba3be8d-3cf9-4ab1-82dc-5b70f9b1163d,2025-05-01,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Hammond,Dermatology,Acne,Treatment for Acne,3938.22,Approved,N/A
+aa84bbb7-3b68-407d-8286-ab2a72ee8bae,2025-04-11,d7f3f2a2-65b3-455b-b768-c28765ea521a,Anthony Flores,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,1986.65,Denied,Pre-auth Missing
+5bac4939-7706-499a-9147-da9821a2755f,2025-05-29,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Myers,Dermatology,Acne,Treatment for Acne,1096.11,Approved,N/A
+ee9c4887-0949-408b-94f2-61d41d6762b9,2025-07-17,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,2264.9,Approved,N/A
+dd4a1bb0-f28b-433a-a2d9-06d351126856,2025-07-29,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Myers,Dermatology,Acne,Treatment for Acne,348.32,Approved,N/A
+31b7853b-dca3-4a92-b292-740d2dd50870,2025-04-14,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,4545.73,Denied,Pre-auth Missing
+4c338f57-9745-4c4e-8b5c-70b5be27b5cf,2025-06-02,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,2522.17,Approved,N/A
+e69c48b8-31e9-46d8-801c-cf0bfd123b80,2025-01-17,4f0d260f-d822-4e6c-96f4-a6e23e8d484d,Keith Chase,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,2217.39,Approved,N/A
+6cd364d6-cd4d-4a26-af66-956ea0119337,2025-12-01,33872c00-5a64-4de7-93b8-4e6365c45376,Gabrielle Whitaker,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,481.32,Approved,N/A
+f39d0b60-6fc7-4f0b-b858-a4d806040988,2025-01-25,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Patton,General Practice,Back Pain,Treatment for Back Pain,3845.95,Approved,N/A
+5c7225c8-6e7c-4013-a669-23ea4a754038,2025-02-21,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,2429.14,Denied,Incorrect Coding
+2397228f-93b8-4b2f-9738-450d6278f55d,2025-03-02,08dd03d4-dfe3-4dbf-a81b-40d57ad0f591,Robert Atkinson,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,759.47,Approved,N/A
+b222880f-812e-458c-b49b-2b444b393c7b,2025-11-21,635fffad-ae51-47ef-9cc3-cb55a4578a99,Angela Rojas,Dr. Perry,Dermatology,Acne,Treatment for Acne,1224.0,Approved,N/A
+637700b0-70e5-4a1f-bcc2-9255ad4c6b08,2025-07-29,7899ae8c-abde-4a2a-8de5-a98693a8fe7f,Michael Russell,Dr. Doyle,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2790.88,Pending,N/A
+73869a77-6eb2-4a9f-831d-7dd4ac961c6c,2025-07-30,a91ce2a8-db62-4d82-8978-81910f6bd3a1,Johnny Anderson,Dr. Shaw,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4184.44,Approved,N/A
+b77cb4c4-2ed0-4b69-bfe0-ebbd43287112,2025-04-16,1391012c-b4ec-4220-8621-ff73210235ee,Danielle Johnson,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,3047.75,Denied,Duplicate Claim
+2f94d640-7b13-44aa-8d5c-521d7688da0d,2025-07-12,647e4fda-a189-4a9d-8d94-1cb305722b88,Jennifer Moon,Dr. Howard,Oncology,Melanoma,Treatment for Melanoma,1066.83,Pending,N/A
+8041ab5f-6718-499c-a4fc-bc7259374a81,2025-09-11,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,4045.75,Denied,Incorrect Coding
+1ccfc615-f2b9-438e-b474-14d77e906a14,2025-09-13,5dfb4c0d-dd6b-4bcc-aec0-4835815cf5bc,Kristin Brown,Dr. Walter,General Practice,Back Pain,Treatment for Back Pain,3927.36,Approved,N/A
+3e176560-bd1d-442b-95f3-ab7272c970b3,2025-06-28,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Walter,General Practice,Flu,Treatment for Flu,124.5,Approved,N/A
+db606cd2-49df-4028-b688-1dbc2bc7e131,2025-09-19,a397665d-a8d6-4057-b27d-9403621234d6,Calvin Reed,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,178.37,Approved,N/A
+04d22419-250b-415c-baa5-33c1a93abd3a,2025-05-24,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,276.48,Approved,N/A
+f4930ee1-b0e5-47f9-9941-b231dbd2abb0,2025-09-08,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Garcia,Orthopedics,Arthritis,Treatment for Arthritis,2350.88,Approved,N/A
+6e132c9e-23e8-41c5-8ec3-99cd9504e0d8,2025-10-16,11b6de36-20ca-4701-ace8-51a14ea17c9e,Jonathon Carlson,Dr. Vang,Dermatology,Eczema,Treatment for Eczema,3809.83,Pending,N/A
+74978270-1b65-40c2-bc94-d449ab81fedf,2025-10-05,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,479.08,Approved,N/A
+db263cc6-d57e-48bb-8068-2bbd7a2a76c3,2025-03-09,81d2beda-a354-4bcf-ac40-5f79ffb583de,William Murphy,Dr. Smith,General Practice,Flu,Treatment for Flu,2908.52,Approved,N/A
+29f1790c-0b86-4366-8196-559628695bfe,2025-10-23,ca06ae3a-5384-4dd4-b5a2-86514cabf325,Melissa Watson,Dr. Smith,Oncology,Breast Cancer,Treatment for Breast Cancer,3255.28,Approved,N/A
+db7320b7-5ce5-49d8-96f5-825e108859ad,2025-02-28,106d374b-b10b-4d60-ac4c-b2ae87ee75d1,David Taylor,Dr. Myers,Dermatology,Acne,Treatment for Acne,549.91,Approved,N/A
+aa6068ec-8321-4af2-ab9d-a6561ec39029,2025-11-01,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,1728.09,Approved,N/A
+7d299a28-7ecc-4a6e-85f4-016b82a4d97b,2025-01-16,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Moore,Pediatrics,Asthma,Treatment for Asthma,4769.67,Approved,N/A
+78d240c8-6e44-4992-83e0-b542cac5bb20,2025-07-25,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Avila,General Practice,Flu,Treatment for Flu,4888.81,Approved,N/A
+8a145a79-6573-47d4-8a3d-4654c1bb27bb,2025-11-10,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Roberts,Dermatology,Psoriasis,Treatment for Psoriasis,830.59,Approved,N/A
+7223d97c-e6e5-4dc5-ac52-452e7d6df478,2025-06-09,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,3003.68,Approved,N/A
+76029d45-01bc-4b1b-8401-c5b9503fe1b5,2025-02-05,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Shaw,General Practice,Back Pain,Treatment for Back Pain,2944.96,Denied,Pre-auth Missing
+97050b80-2a1d-4ba0-9041-aee6d02978fa,2025-04-19,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,809.95,Denied,Duplicate Claim
+074fc680-22cb-4b85-9e19-d0d4ba3d24be,2025-01-22,ebff32a5-30d7-45ac-b571-23267bcafe2b,Randy Graham,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,1901.87,Denied,Service Not Covered
+143fa87b-9ba4-498e-b81b-d881ffda2a7c,2025-02-03,8a60f2f3-bf25-454d-b952-194cf6e31ad9,Heather George,Dr. Hammond,Dermatology,Acne,Treatment for Acne,4202.58,Approved,N/A
+a8762b2c-3e6b-443c-8814-7792b62b584e,2025-09-08,3c997bdc-28f2-41e3-9fe4-d775661b45da,James Lopez,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,3047.19,Approved,N/A
+7e7e46f9-4e16-4e74-8ba9-9e9a82ae85cb,2025-05-08,7ecd7289-5f55-4a2c-a57b-28ac72abd047,Alvin Neal,Dr. Brown,Dermatology,Acne,Treatment for Acne,137.48,Denied,Incorrect Coding
+610e3a9b-613e-46f6-9a9d-afec2677e916,2025-02-14,5d75ed5c-fbe9-4944-af52-7384d787a5be,Jessica Wells,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,834.76,Denied,Duplicate Claim
+58141ce5-de37-4985-9817-d61eca197c01,2025-06-03,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,4212.32,Denied,Incorrect Coding
+d451ca6d-9011-43f7-83d1-e363da3c6f63,2025-09-03,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,4895.08,Approved,N/A
+393f219a-4dac-48b6-9d92-3cbfc8b5bcf3,2025-03-11,b7f13733-e123-498e-b881-84fe7491f23f,Ernest Austin,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,3579.17,Approved,N/A
+f6739c00-7e3b-4f33-9979-fe0ed87e42ff,2025-04-23,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Reyes,Cardiology,Heart Failure,Treatment for Heart Failure,2339.23,Denied,Incorrect Coding
+ae55541c-74c0-4646-97aa-75a902f6acb1,2025-11-07,35dcf82e-213f-49a5-91da-28f90d95f392,Brandy Ware,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,2284.99,Pending,N/A
+b8b7fe58-da9b-4279-a90a-79e571783593,2025-09-24,f5a881b6-fca3-4397-946d-eefd4570d436,Glen Ryan,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,4860.9,Denied,Service Not Covered
+1e24f2a0-3e89-4c9e-985f-24de8501e68a,2025-01-28,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Marshall,Dermatology,Acne,Treatment for Acne,1570.16,Approved,N/A
+1c4a57bc-e08e-406b-a4a5-8d9c3435b87d,2025-02-07,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,2233.63,Approved,N/A
+46ac336e-f167-4657-813c-d48016417ff0,2025-09-26,35dcf82e-213f-49a5-91da-28f90d95f392,Brandy Ware,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,4765.77,Denied,Duplicate Claim
+41b50284-eccc-451d-aa38-6ebd78f9825b,2025-03-07,8b06555a-ed17-4d96-b5b7-da439f196f8c,Anthony Booth,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,791.48,Approved,N/A
+39ca1d9c-51d5-4d89-bbda-d7180f06c515,2025-03-30,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Moore,Pediatrics,Chickenpox,Treatment for Chickenpox,2130.53,Pending,N/A
+e6a3358d-03f7-40cd-a441-e7719ab05a7a,2025-08-03,437641a5-8fb0-4828-95ef-a3175fbb3fb5,Adam Bradley,Dr. Rodriguez,Pediatrics,Chickenpox,Treatment for Chickenpox,172.46,Denied,Incorrect Coding
+1012045c-6762-4e12-9291-53f1e741c2d8,2025-06-10,080a1ae6-1d59-4b72-9e75-69c7a45a2376,Annette Turner,Dr. Rodriguez,Pediatrics,Otitis Media,Treatment for Otitis Media,1921.09,Denied,Pre-auth Missing
+dff5e43f-9f81-427f-b127-af92145a17ae,2025-04-20,3ea74b7f-af8a-4648-bc99-4b4ff7643060,Kimberly Weber,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,1046.75,Approved,N/A
+7b0297e5-f47d-4102-8a22-4261b3912673,2025-03-01,12648622-f87f-4641-900b-ebc6349e7fd1,Heather Brown,Dr. Marshall,Dermatology,Eczema,Treatment for Eczema,2978.57,Approved,N/A
+8cacd689-79bc-4302-986e-616c6ea08437,2025-06-11,5094bdf2-3332-4122-8b00-54d0ec9dd192,Derrick Smith,Dr. Mercado,Pediatrics,Otitis Media,Treatment for Otitis Media,1852.96,Denied,Service Not Covered
+ec50197e-c3ef-4469-8ee3-b5600ff225e3,2025-11-21,b66b2683-5581-43a0-bc36-366500db3459,Chad Benson,Dr. Doyle,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3260.49,Approved,N/A
+fcb6a6fe-4f50-4acb-88d5-4106cef4348e,2025-07-12,5094bdf2-3332-4122-8b00-54d0ec9dd192,Derrick Smith,Dr. Doyle,Cardiology,Hypertension,Treatment for Hypertension,3147.11,Approved,N/A
+ed4bf646-9af3-4f32-b83e-b74d64229440,2025-09-04,06b443cb-b0fb-411e-b753-0e3cf747d696,Melissa Pacheco,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,3574.13,Denied,Service Not Covered
+0730cedc-f336-4531-a52d-06937ee0d86d,2025-11-22,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Roberts,Dermatology,Psoriasis,Treatment for Psoriasis,3003.1,Denied,Duplicate Claim
+fb53db25-7444-420b-83e9-1cff8d31c1cf,2025-05-21,701c7676-6540-4592-b886-e7915e137cc3,Alison Ramsey,Dr. Hammond,Dermatology,Eczema,Treatment for Eczema,3560.04,Denied,Duplicate Claim
+285fa0c4-5dc9-4eb4-81c6-93a2ab6b416a,2025-01-13,9196bc33-77e5-4d67-980b-bb90ad69a7d4,Debra Rogers,Dr. Roberts,Dermatology,Acne,Treatment for Acne,1733.97,Approved,N/A
+c75cc4c0-d3b6-46ef-8cfd-0a34844ca9e2,2025-08-16,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,3730.53,Approved,N/A
+5b25f73d-ff84-48df-a67a-e7541346558b,2025-08-06,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Pitts,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,4438.67,Pending,N/A
+91020bc5-268c-4a72-89db-89e16342a741,2025-08-18,7ed878d2-9731-4b88-8861-d408280049c9,James Rhodes,Dr. Montgomery,Cardiology,Heart Failure,Treatment for Heart Failure,1804.04,Denied,Service Not Covered
+d63ccec9-2a7e-4e7d-9417-459ed91fb848,2025-10-06,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1617.81,Denied,Incorrect Coding
+3838eda9-f073-40a2-ba7c-d0964f8ee1da,2025-02-20,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,262.54,Denied,Service Not Covered
+56ae728d-42f8-422b-896d-829ed397b32f,2025-06-01,b8e5c745-3481-461e-89ef-a9d4991b7a6a,Claudia Knight,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,1132.87,Approved,N/A
+8e722750-7ff2-4a2d-b2df-a41762c9990b,2025-02-08,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Dean,Oncology,Breast Cancer,Treatment for Breast Cancer,753.15,Approved,N/A
+97dad2c7-f969-47d2-9918-3068c0fc8a81,2025-09-22,8aeb6e96-f447-40f2-a6b0-6017653365a4,Nicholas Jones,Dr. Hurst,Oncology,Melanoma,Treatment for Melanoma,397.55,Approved,N/A
+80463627-0bb3-4c69-ae72-c5af6aa904dd,2025-06-29,c8a552e5-d135-4249-8ebd-98db998a75dc,Lee Silva,Dr. Smith,General Practice,Flu,Treatment for Flu,1670.86,Approved,N/A
+19fe761d-e7c5-4e4a-bf24-cadc88260b6d,2025-11-01,97cc6852-1b28-48b9-b450-2d646117ed9a,Deanna Munoz,Dr. Smith,General Practice,Back Pain,Treatment for Back Pain,2782.22,Denied,Pre-auth Missing
+08de2140-586a-46fd-8011-604c796b3b3f,2025-06-25,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,1999.11,Pending,N/A
+291f6844-066d-451e-92c4-f6e27520f7ae,2024-12-13,8b06555a-ed17-4d96-b5b7-da439f196f8c,Anthony Booth,Dr. Perry,Cardiology,Heart Failure,Treatment for Heart Failure,3966.5,Denied,Duplicate Claim
+e0563d75-6ab5-46b6-a72c-2d4742ccd68c,2025-06-12,780b48dd-8dc9-44b8-874d-d10fb6e1dc6b,Kayla Vance,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,4132.75,Approved,N/A
+0b69455f-4458-483e-b6de-77b2aed0eb0d,2025-09-25,50e66922-3469-4405-9b10-f1c8c33224df,Kathleen Richardson,Dr. Franco,Pediatrics,Chickenpox,Treatment for Chickenpox,2366.04,Denied,Service Not Covered
+556ce2a3-ba2b-4eec-9b4c-283cadd35094,2025-04-16,42eba9ae-5d0b-4f7e-abf2-62b083852ba0,Tracey Davis,Dr. Doyle,Cardiology,Heart Failure,Treatment for Heart Failure,900.18,Pending,N/A
+14ae5de8-7dac-4ab3-9070-9a5ac89f00b6,2025-01-18,5a756c90-1840-4460-b161-0acd99dcba0a,Brandi Rogers,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,3653.31,Denied,Duplicate Claim
+56c34432-3900-425e-9370-798e60c80fd7,2025-02-23,c3a00ca8-f30d-4a52-b428-b48f4bb917d1,Michelle Crawford,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2009.24,Approved,N/A
+29deb2d7-18e9-4bea-8113-838313b337c5,2025-09-25,063a10d0-046a-4855-8da2-51165cede9b1,Alexis Mcdowell,Dr. Brown,Dermatology,Acne,Treatment for Acne,2657.58,Approved,N/A
+71182dcf-f470-4b1c-9153-473ce933d680,2025-02-18,79eee176-c6bf-44ef-8169-2f8ccf6060ff,William Vargas,Dr. Avila,General Practice,Flu,Treatment for Flu,3246.22,Approved,N/A
+24d5b1e7-a5e6-49a4-9e64-0b0b4e7e4156,2025-02-10,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,4863.62,Approved,N/A
+18b92e8b-ccb4-473d-ba61-7cc233d87b8b,2025-03-09,14b44f62-2807-4c62-9df7-ce92308e4fb7,Heather Wilson,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,4658.94,Pending,N/A
+2e611afb-85e5-4ef1-821f-6efe8c94d5cc,2025-02-28,63bf8669-2210-43f8-a236-f61816cedc6f,Charles Alexander,Dr. Lewis,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2758.67,Approved,N/A
+d161a4d5-206e-490d-8e80-33bec7b61ed3,2025-01-10,15e1afa2-8518-4894-9a24-d20acbd21507,Michael Woods,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,2171.94,Approved,N/A
+43971955-00e7-4bb8-8b41-125696b46c1b,2025-02-20,7728494b-87de-4941-9e94-2f46270aa25b,Jose Johnson,Dr. Franco,Pediatrics,Chickenpox,Treatment for Chickenpox,4401.01,Denied,Duplicate Claim
+ba4ff3d6-f8f2-4ad1-9217-97a68bc5682b,2025-01-22,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Avila,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1212.96,Approved,N/A
+6acb0422-fb34-4a27-8bcf-d8aa32c7eb22,2025-03-03,1134694f-7e56-41a4-9eca-978d61128936,Barbara Byrd,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,2624.32,Approved,N/A
+8c719c66-10d5-4b61-af90-3dbd2353ad3a,2024-12-30,a3208ed0-b651-4d15-b784-f0c787605099,Dennis Williams,Dr. Torres,Orthopedics,Tendonitis,Treatment for Tendonitis,979.79,Denied,Duplicate Claim
+fa03f0f9-147a-4f18-aa12-507ddb509dc4,2024-12-30,5c07952e-d31d-4d3f-b050-dbc3490e8cf9,Ashley Glover,Dr. Myers,Dermatology,Eczema,Treatment for Eczema,917.78,Denied,Service Not Covered
+61d731ac-88c4-4852-92b8-eb7d084b1ad5,2025-10-11,cdfcf567-a4ac-4769-b65a-d8ce624b6621,Peter Ali,Dr. Dean,Oncology,Breast Cancer,Treatment for Breast Cancer,4459.64,Approved,N/A
+f6b1a987-9716-4786-99de-ff05d008c9c4,2025-05-29,451486d7-aae9-46f0-a03a-82c9e416bef1,Audrey Stewart,Dr. Foster,Orthopedics,Tendonitis,Treatment for Tendonitis,4035.08,Approved,N/A
+aeff2a62-3a5e-4afc-a730-421f94ee15f0,2025-10-10,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,1839.02,Approved,N/A
+3bdf7d50-e0c9-4ebd-85e0-c4f99b7c0626,2025-01-25,92271a67-f391-4d8e-96ed-a1618966102c,Jacqueline West,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,1855.43,Approved,N/A
+40d1f338-dee2-4de4-af4a-4cba59ba8c49,2025-01-21,e4a5de56-3117-424f-a146-3c7dabf1b324,Charles Brooks,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,757.13,Denied,Pre-auth Missing
+417e6f38-ae6a-4cca-8e01-464747fc556f,2024-12-09,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,3113.83,Pending,N/A
+0bae8881-8e54-461d-8034-dd48d5598381,2025-08-10,727bac23-1948-41d0-a3d5-6861450bdacb,Ashley Choi,Dr. Lewis,Dermatology,Eczema,Treatment for Eczema,1026.95,Approved,N/A
+a6cff1cb-4d79-4e1a-9d5b-395e54db3075,2025-02-20,8f64017a-6394-47b4-908e-fc25ee56f3a8,Nathan Jones,Dr. Norris,Dermatology,Acne,Treatment for Acne,919.46,Approved,N/A
+f0b9bc51-8091-45c9-9be7-24532f12a4b7,2025-01-27,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Franco,Pediatrics,Asthma,Treatment for Asthma,4339.33,Denied,Incorrect Coding
+ca8af81e-2389-4a5f-894e-113b00435dab,2025-02-04,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Mcgee,Dermatology,Eczema,Treatment for Eczema,2032.05,Denied,Incorrect Coding
+273c5bd4-cbd3-426b-9494-cd107fc731b4,2025-07-10,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Roberts,Dermatology,Acne,Treatment for Acne,1927.7,Approved,N/A
+a63e82f6-5f5f-4771-aa36-19a8244b45b4,2025-06-09,06b53de3-136a-4b63-ac1d-d4b1a6658d19,Brenda Holland,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,4650.92,Approved,N/A
+f1f140aa-f6cf-45ac-961e-ba1e46712182,2025-12-02,7d5f9c36-a4a4-4778-b67c-0eff83be953d,Jason Wilson,Dr. Gordon,Pediatrics,Asthma,Treatment for Asthma,4029.05,Approved,N/A
+8b3b3f78-257d-492b-9485-c09fe0726e23,2025-07-09,93c0fe19-530e-4d98-bcc6-c01db2059750,Jennifer Soto,Dr. Lowery,Dermatology,Psoriasis,Treatment for Psoriasis,2356.6,Denied,Pre-auth Missing
+95823108-badb-454a-b3bd-6d6a1ca71fc7,2025-03-18,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,3074.85,Approved,N/A
+8b53c193-1302-4b7c-bbdb-7c38b4e24cd6,2025-06-14,8b090a14-b36a-4d41-ad4c-7141e19f29ed,Philip Valenzuela,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,1135.89,Approved,N/A
+f04d99ac-80a9-4668-a240-e8d1ce8f544c,2025-01-29,2726facd-58f0-4950-97a5-95f110e3370a,James Alvarez,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,4236.73,Denied,Duplicate Claim
+ed3ede3b-89a2-4134-8dfc-bb66e3601028,2025-05-27,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,4353.22,Approved,N/A
+6785e7e5-86a8-4e32-9b1e-c28d1304ef12,2025-08-19,dc61480a-4fa4-4be2-b81f-69326f9b642b,Bridget Wolf,Dr. Tate,Pediatrics,Chickenpox,Treatment for Chickenpox,4159.82,Denied,Incorrect Coding
+8fe7dbc2-019f-4c41-91da-9cc38e0b5580,2025-02-20,a3208ed0-b651-4d15-b784-f0c787605099,Dennis Williams,Dr. Johnson,Orthopedics,Fracture,Treatment for Fracture,3855.47,Approved,N/A
+45800296-7ed4-4017-a45d-461acc676a54,2025-09-11,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Walter,General Practice,Flu,Treatment for Flu,840.41,Pending,N/A
+9d8da609-b50c-424e-99aa-c3ea22c406f7,2025-09-14,b797887c-a97d-42b6-8522-60c554aef600,Amy Lopez,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,4170.49,Approved,N/A
+3878728f-a074-4ed0-ac95-1dd125eb5882,2024-12-11,e156c605-92e5-4563-b660-e710e825a8e3,Melissa Keller,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,996.16,Pending,N/A
+aa554a96-abe5-42cc-92ee-cd5a8400a075,2025-03-05,1d5fe0e5-fa95-489c-8f4b-b89f5a8dfd99,Darren Mitchell,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,3294.18,Approved,N/A
+2266948a-dced-404c-85a9-3daf253f6b82,2025-08-24,443a3708-c94b-4eea-a85c-287b1f9a406c,Jared Kim,Dr. Norris,Dermatology,Psoriasis,Treatment for Psoriasis,737.07,Approved,N/A
+9edd8159-26fe-46ee-8a16-ad8794753cc5,2025-04-15,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Moore,Pediatrics,Asthma,Treatment for Asthma,148.15,Approved,N/A
+bc2d5299-710c-4b0a-af4b-1c4c7f38a4f0,2025-07-15,ee459494-451a-4e88-b248-671ff21adc9b,Michael Lawson,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,4036.3,Denied,Incorrect Coding
+244c53fe-d963-40ad-afa8-22fdf5071739,2025-01-06,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,4031.73,Approved,N/A
+9306107c-b4c6-468d-a2c3-32c9c1635429,2025-09-16,eb6f016d-fd9f-4bf6-aa5e-654010b53f92,David Cruz,Dr. Smith,Oncology,Melanoma,Treatment for Melanoma,2975.5,Approved,N/A
+fa426d78-96d0-45d2-b83c-436209fad67f,2025-11-21,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,4272.61,Approved,N/A
+26d13308-4e53-43d9-88f1-4645cd3d2bfb,2025-06-21,106d374b-b10b-4d60-ac4c-b2ae87ee75d1,David Taylor,Dr. Lowery,Dermatology,Psoriasis,Treatment for Psoriasis,3149.53,Denied,Duplicate Claim
+1c08e28b-ba1b-4975-a852-ba9dcf4de54e,2025-09-19,df23240d-5098-402a-a4e3-4ae62e311b37,Brooke Keller,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,2228.08,Approved,N/A
+8c651a68-1b06-414c-9db0-aed021e8d5ab,2025-06-08,79eee176-c6bf-44ef-8169-2f8ccf6060ff,William Vargas,Dr. Murphy,Orthopedics,Tendonitis,Treatment for Tendonitis,3677.57,Approved,N/A
+c305634a-5971-4bbf-83f1-b5dc5f3c6a76,2025-08-09,108298e4-6460-4995-8d82-5175bd79f84b,Nancy Wood,Dr. Walter,General Practice,Flu,Treatment for Flu,1573.27,Denied,Service Not Covered
+c66abdd6-062d-4e1c-85b5-9e2859f1a3d7,2025-06-27,1d64d298-4356-4422-b1d7-c7b85cd2102f,Linda Cantu,Dr. Clark,Oncology,Melanoma,Treatment for Melanoma,4983.14,Denied,Duplicate Claim
+c3b5160b-7765-45e0-a79c-2ea776a8774a,2025-08-11,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Montgomery,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2099.93,Pending,N/A
+80810941-b810-46b9-ba56-0498e88bf360,2025-04-19,62ceccd5-933d-4c42-acb1-c7f11e293b50,James Patterson,Dr. Terry,Pediatrics,Asthma,Treatment for Asthma,4912.33,Denied,Service Not Covered
+2173a778-6b6f-4cf0-8c1f-d613c979e143,2025-01-22,1cc56e5b-ea6a-4399-90b6-3739158be396,Kara Tran,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,2793.87,Denied,Service Not Covered
+14e9c9dc-e8d9-4ce2-9d20-d11ee6c26cb1,2025-09-28,a7b1ae52-9f47-479d-9e49-d3db2aa78670,Nicole English,Dr. Clark,Oncology,Breast Cancer,Treatment for Breast Cancer,2098.23,Pending,N/A
+8aebc1f3-8a13-4d19-804b-b3bfbf8e4583,2025-03-17,635fffad-ae51-47ef-9cc3-cb55a4578a99,Angela Rojas,Dr. Lewis,Dermatology,Eczema,Treatment for Eczema,2584.49,Approved,N/A
+ccc4636f-a56b-40e2-b0bb-c7ad69457029,2025-12-08,6a9288ad-1260-48f5-a594-738f3238d625,Betty Thompson,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,3932.86,Approved,N/A
+161b1791-2b2f-413c-b4df-fee05a99109e,2024-12-14,c738ecbc-eb5b-4141-966a-54350630fe57,Christopher Baker,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,802.04,Approved,N/A
+13128b12-8d61-478e-8487-ac4eed60f9b2,2025-11-29,780b48dd-8dc9-44b8-874d-d10fb6e1dc6b,Kayla Vance,Dr. Torres,Orthopedics,Fracture,Treatment for Fracture,4955.76,Approved,N/A
+ec53ab04-5eb4-4c1c-8f8e-904a0ab10cce,2025-03-07,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,161.34,Denied,Service Not Covered
+8d14faa5-edc6-4781-92c6-87c7cd91cc19,2025-04-26,57b2cdd5-bb93-46d3-bbfd-55d8370e2f41,Jesse Ellis,Dr. Cooper,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,2705.01,Denied,Service Not Covered
+c1a1d214-847a-47b6-8d4d-3c2e2bfad80b,2025-08-05,0a57e3c7-0c45-4365-8dc5-c727364071ee,Caleb Lambert,Dr. Cooper,General Practice,Flu,Treatment for Flu,3223.66,Denied,Pre-auth Missing
+aad70d5c-dc12-4dc7-ab26-c04b43f4acee,2025-06-22,6e06a467-7b55-4c6a-bb52-dee403193a70,Jessica Mcdaniel,Dr. Sims,Cardiology,Heart Failure,Treatment for Heart Failure,828.39,Denied,Duplicate Claim
+f29ef72c-7d22-42ae-aead-6030654432f2,2025-10-16,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Vang,Dermatology,Acne,Treatment for Acne,631.52,Denied,Pre-auth Missing
+d7a4ad6e-2cb7-4dbb-a3db-07bdc6f1aab8,2025-04-26,2bd4c3cd-e76f-472d-822e-1eed8e7b97c2,David Payne,Dr. Gordon,Pediatrics,Chickenpox,Treatment for Chickenpox,3533.33,Denied,Pre-auth Missing
+eca6fd57-7ce1-4e52-a1b3-771ae71e0a63,2025-08-20,11b6de36-20ca-4701-ace8-51a14ea17c9e,Jonathon Carlson,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,510.3,Approved,N/A
+55359452-35b0-4962-80ba-d52e5eef5515,2025-06-16,8b148351-97d2-4ca3-a5c9-4dd5668d5233,Eric Combs,Dr. Dean,Oncology,Melanoma,Treatment for Melanoma,3740.64,Approved,N/A
+be7458ee-55e1-49c4-8c9c-1d41c757f8b6,2025-07-12,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Myers,Dermatology,Psoriasis,Treatment for Psoriasis,2801.49,Denied,Duplicate Claim
+b405322e-0338-4b52-bcde-a7893d31879d,2025-08-04,14ec6f0f-294f-4183-a357-a603997341a3,Ashley Cruz,Dr. Torres,Cardiology,Heart Failure,Treatment for Heart Failure,2646.19,Approved,N/A
+fbab0144-c68c-4fe5-9de6-4de51a329791,2025-07-12,fff040ce-7682-4f5e-a794-b505bd837a0c,Jeremy Carlson,Dr. Smith,Oncology,Breast Cancer,Treatment for Breast Cancer,3153.47,Denied,Service Not Covered
+f51833aa-545f-4fb8-aad1-0c57c7a5997f,2025-08-06,02877fa7-0cec-4b07-8cb8-93b243f080b0,Jeffrey Hobbs,Dr. Tate,Pediatrics,Otitis Media,Treatment for Otitis Media,2106.15,Approved,N/A
+ed4fabe3-7d09-453e-8ba2-467f43999f2e,2025-11-08,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Lewis,General Practice,Back Pain,Treatment for Back Pain,439.26,Approved,N/A
+0faffc38-93cb-4540-9a0c-9f6c6f83d891,2025-02-21,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Johnson,Orthopedics,Tendonitis,Treatment for Tendonitis,2834.89,Approved,N/A
+ccf1efb8-4b15-4ca8-9e6e-5f29b161a33b,2025-09-27,eddc424c-ee17-4f3d-a773-ccf49a2664f2,Kevin Rosales,Dr. Torres,Orthopedics,Arthritis,Treatment for Arthritis,2183.83,Approved,N/A
+b6954c48-4cb6-4b7d-a526-c50dff1a1f76,2025-09-21,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Norris,Dermatology,Eczema,Treatment for Eczema,3657.3,Approved,N/A
+8bd11075-27ae-401e-8322-aeee1d234e1c,2025-06-20,b9913380-66f6-4c69-bbce-97280553fcbc,Brandon Lopez,Dr. Sims,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2705.17,Approved,N/A
+9869d897-540c-4115-8370-d5a590b4d812,2025-03-16,df23240d-5098-402a-a4e3-4ae62e311b37,Brooke Keller,Dr. Brown,Dermatology,Acne,Treatment for Acne,4664.56,Approved,N/A
+c1812738-8589-4fe2-835c-d8ffbe571937,2025-09-29,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Lewis,Dermatology,Eczema,Treatment for Eczema,523.08,Approved,N/A
+bb3246e7-557c-49ea-af06-7ec00a980a37,2025-02-24,20749cee-7873-45d1-818f-646d394d6f21,Kathryn Montgomery,Dr. Perry,Dermatology,Eczema,Treatment for Eczema,2362.44,Denied,Service Not Covered
+320cb580-bf01-43c9-adca-6a47456e3bbb,2025-01-11,7899ae8c-abde-4a2a-8de5-a98693a8fe7f,Michael Russell,Dr. Durham,General Practice,Flu,Treatment for Flu,3287.36,Approved,N/A
+5d236035-d42f-4f47-9b68-0161b999fecb,2025-05-03,d975d23f-72d8-4d60-9628-875ba730e9bc,Karen Mcclain,Dr. Murphy,Orthopedics,Fracture,Treatment for Fracture,960.45,Approved,N/A
+5075cd9d-57ce-43f6-bdc8-6ecc5a113a9d,2025-02-06,451486d7-aae9-46f0-a03a-82c9e416bef1,Audrey Stewart,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,3891.86,Approved,N/A
+4af21f2f-4f75-4ead-a0ec-8284fa90715c,2025-06-04,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Smith,Oncology,Breast Cancer,Treatment for Breast Cancer,2231.84,Approved,N/A
+d28923fb-9bc0-463a-9d04-5ea5b79d924b,2025-04-04,39d2d8d1-89c9-498a-aa8d-39c95dba6a29,John Hernandez,Dr. Torres,Cardiology,Hypertension,Treatment for Hypertension,3664.08,Denied,Pre-auth Missing
+5f2ba3b6-3e81-4520-b1f0-2e0c475510cf,2025-11-12,98919c0e-bc27-40e8-8718-cf6505097ede,Anna Walker,Dr. Hammond,Dermatology,Psoriasis,Treatment for Psoriasis,3653.75,Denied,Service Not Covered
+09a4872c-2919-415e-99c6-1fadd811f7c7,2025-02-24,1391012c-b4ec-4220-8621-ff73210235ee,Danielle Johnson,Dr. Dean,Oncology,Breast Cancer,Treatment for Breast Cancer,4293.3,Denied,Pre-auth Missing
+a77baf16-06b8-4831-8609-94636dcdef23,2025-02-28,89454781-4bf5-4ef1-8e33-85e1de0992f0,Amanda Williams,Dr. Pitts,General Practice,Flu,Treatment for Flu,3958.8,Approved,N/A
+de94c58f-5a11-4f73-8070-d299c4546b41,2025-08-25,ebc55fdb-362d-40dc-bf5b-2f63ad0ead9d,David Mclaughlin,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,4321.9,Approved,N/A
+a3a57d2c-2434-4264-8583-745f13367be4,2025-12-01,eb89c764-85a0-4822-b4fc-a996d319235d,David Pierce Jr.,Dr. Franco,Pediatrics,Otitis Media,Treatment for Otitis Media,4178.24,Denied,Service Not Covered
+7b6b9c6e-537b-4f87-9a24-4376f2f302f6,2025-02-12,9f7e5821-2771-4b21-8c72-25d7d926aa20,Hayley Walker,Dr. Torres,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,2030.25,Pending,N/A
+9f9a28b1-fd13-4925-90fa-f3b2e9dd78fe,2025-05-15,7ed878d2-9731-4b88-8861-d408280049c9,James Rhodes,Dr. Smith,General Practice,Back Pain,Treatment for Back Pain,1985.24,Pending,N/A
+5be175ab-47cf-4927-a953-c8c031cc2e4e,2025-05-15,451486d7-aae9-46f0-a03a-82c9e416bef1,Audrey Stewart,Dr. Clark,Oncology,Lung Cancer,Treatment for Lung Cancer,1770.92,Denied,Incorrect Coding
+49f03029-f84a-471d-b982-0641a2cbb847,2025-08-17,b18e689f-ef0f-4cd0-bdcc-b1bb739f3957,Lynn White,Dr. Vang,Dermatology,Psoriasis,Treatment for Psoriasis,2097.29,Approved,N/A
+e255451f-cc22-46f7-b619-64e4c599c34d,2025-02-23,f8c8d79f-321a-467f-a8e3-cc8e06d34fd5,Lisa Brown,Dr. Perry,Cardiology,Hypertension,Treatment for Hypertension,2070.44,Approved,N/A
+d0544623-f257-4b48-991d-29a1082e59c4,2025-12-02,8a60f2f3-bf25-454d-b952-194cf6e31ad9,Heather George,Dr. Murphy,Orthopedics,Arthritis,Treatment for Arthritis,4900.33,Approved,N/A
+6f6c70ec-fce2-43f1-8535-721bbb1b17e9,2025-02-26,3c997bdc-28f2-41e3-9fe4-d775661b45da,James Lopez,Dr. Marshall,Dermatology,Acne,Treatment for Acne,1661.31,Approved,N/A
+d8f4ff5d-7ba9-4ad5-a57a-7c1fb95f135e,2025-08-01,d07b7c56-e022-42c0-b35a-536d65603674,Elizabeth Wagner,Dr. Farley,Dermatology,Eczema,Treatment for Eczema,3726.32,Denied,Duplicate Claim
+f5837f49-3872-4f57-b546-ffa025c8b3f4,2025-02-12,4d0e58d7-185b-47b1-ac07-eacf3d7785b3,Amanda Allen,Dr. Perry,Dermatology,Acne,Treatment for Acne,3621.62,Denied,Pre-auth Missing
+91de0101-b210-4de6-b8c2-712a99feb377,2025-07-04,dc61480a-4fa4-4be2-b81f-69326f9b642b,Bridget Wolf,Dr. Avila,General Practice,Back Pain,Treatment for Back Pain,2634.61,Pending,N/A
+8f44e6e3-fc73-4e54-bf74-d90220e62506,2025-08-27,587783d6-510a-4f7f-ae77-91983c8b2230,Sara Woodward,Dr. Durham,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,3272.73,Denied,Pre-auth Missing
+3386997b-77b7-4591-af39-db24178117f9,2025-08-30,39d2d8d1-89c9-498a-aa8d-39c95dba6a29,John Hernandez,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,4847.21,Approved,N/A
+d7e963e6-7669-42cb-a134-6cd83b2ad015,2024-12-25,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Meyer,General Practice,Back Pain,Treatment for Back Pain,2028.48,Denied,Pre-auth Missing
+305ee556-85ad-4d7b-ad8e-48a044ef872e,2025-08-11,ee459494-451a-4e88-b248-671ff21adc9b,Michael Lawson,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,4069.8,Approved,N/A
+6d9c5faf-bce0-4e95-b0e9-c7aa425bab39,2025-12-08,2e580e4f-67a3-4a47-bb9e-607571c224b8,Janet Vega,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,337.37,Approved,N/A
+18e7120a-22b6-47d1-8290-bddad217fa1f,2025-04-23,08dd03d4-dfe3-4dbf-a81b-40d57ad0f591,Robert Atkinson,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,4806.51,Approved,N/A
+20542df3-80e8-4193-80e8-ec1515a6082e,2025-06-28,93b8ab33-35f0-4fd0-848e-084b8a7b093b,Tiffany Brown,Dr. Perry,Dermatology,Psoriasis,Treatment for Psoriasis,3200.43,Denied,Incorrect Coding
+c0acca59-a818-4dc6-ad61-c7c897779eee,2025-11-22,da402477-4f92-479c-8a94-3d74507bb182,Benjamin Brooks,Dr. Mercado,Pediatrics,Asthma,Treatment for Asthma,4575.57,Pending,N/A
+26f347ab-1dba-4641-90d4-3d54928cf693,2025-04-15,5c57b088-e4e9-448a-af17-ba1bf8622698,Tiffany Williams,Dr. Cochran,Oncology,Breast Cancer,Treatment for Breast Cancer,1421.52,Approved,N/A
+6dc2fbf6-795a-41bb-a465-930392d0cf7b,2024-12-14,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Brandt,Orthopedics,Fracture,Treatment for Fracture,447.62,Approved,N/A
+cc1473e2-f83b-4409-b7e3-daad6627d895,2025-02-08,8d6f09a9-bee1-44e3-8823-f1ce9a5d4fcd,Henry Miller,Dr. Hurst,Oncology,Breast Cancer,Treatment for Breast Cancer,4587.42,Approved,N/A
+091ded35-74c9-4460-8e29-edf773ffeef2,2025-07-19,3cd4a8c7-e3dc-4969-946c-93031aebe651,Shawn James,Dr. Garcia,Dermatology,Acne,Treatment for Acne,1166.35,Approved,N/A
+085519a6-ea50-47fe-8c9a-7fc7d224696c,2025-03-23,6b3f930c-5f38-4e59-8049-122724bf7cc8,Erik Ayers,Dr. Terry,Pediatrics,Otitis Media,Treatment for Otitis Media,1333.24,Approved,N/A
+9b5ed1af-8dce-4447-a241-7fcb75578c85,2025-01-23,668ed24f-53cd-4348-b971-77769ee8bc0d,Paul Wood,Dr. Smith,Oncology,Lung Cancer,Treatment for Lung Cancer,3202.69,Approved,N/A
+7cfaa49c-a84c-4748-9d0b-6ce0328c07b9,2025-06-17,701c7676-6540-4592-b886-e7915e137cc3,Alison Ramsey,Dr. Brandt,Orthopedics,Arthritis,Treatment for Arthritis,3606.78,Approved,N/A
+5520a0eb-4370-4e8f-9540-e157bfc04787,2024-12-22,06b443cb-b0fb-411e-b753-0e3cf747d696,Melissa Pacheco,Dr. Reyes,Cardiology,Hypertension,Treatment for Hypertension,753.57,Approved,N/A
+a6382b09-7fdb-4375-b53a-27e477e08d7d,2025-06-30,b7f13733-e123-498e-b881-84fe7491f23f,Ernest Austin,Dr. Garcia,Orthopedics,Fracture,Treatment for Fracture,2669.35,Denied,Service Not Covered
+0e25aa20-51f6-47d4-aba8-7f8d511fe19c,2025-04-05,6fe2b18a-00ac-4d98-b80a-183e2862ff5e,Douglas Campbell,Dr. Gordon,Pediatrics,Otitis Media,Treatment for Otitis Media,1805.4,Approved,N/A
+1c195d43-4168-44f2-8120-cfe06503e957,2024-12-28,91912ad4-930f-4148-a92e-49f91129f520,Ryan Owen,Dr. Montgomery,Cardiology,Hypertension,Treatment for Hypertension,1112.01,Approved,N/A
+74f27343-e542-4f38-bd27-70235350e23a,2025-08-10,b018c3a3-2254-40a7-bea8-14cfc935dba1,Brent Stevenson,Dr. Sims,Cardiology,Hypertension,Treatment for Hypertension,755.65,Approved,N/A
+6e92e2b2-a10d-4113-885f-1d8141ef4380,2025-09-11,e2890b7d-e119-41c3-ac04-6cc81927849d,Riley Morgan,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,2969.62,Approved,N/A
+43fdc98c-cc64-429f-b692-467ae22a438a,2025-03-28,cc8df4f2-cec2-48bc-a522-07f34fd2cdcb,Megan Daniels,Dr. Terry,Pediatrics,Chickenpox,Treatment for Chickenpox,1932.02,Denied,Service Not Covered
+65b2ab12-2f41-4f7a-b4ca-b4305ec74774,2025-01-16,1ed654e4-a583-4961-a8ee-07253c98b5c5,Justin Coleman,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,3348.19,Denied,Service Not Covered
+228a5125-451a-49db-b28c-90039aef3e52,2025-02-02,02753732-48f9-4aac-90dd-96afaa74686b,Maurice Collins,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,1900.8,Approved,N/A
+69971f85-4612-4073-bfac-a883151f740c,2025-06-24,39d2d8d1-89c9-498a-aa8d-39c95dba6a29,John Hernandez,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,3080.56,Approved,N/A
+a6dd9507-93d3-46f1-8c7c-0e345613258e,2025-09-08,7e7ee9e5-177e-4e58-8848-9781844ee55d,Phillip Jones,Dr. Rodriguez,Pediatrics,Asthma,Treatment for Asthma,4190.82,Denied,Pre-auth Missing
+2bcc7db7-6c6f-4826-a723-de99b3ce63d5,2025-10-27,6fe2b18a-00ac-4d98-b80a-183e2862ff5e,Douglas Campbell,Dr. Moody,Dermatology,Psoriasis,Treatment for Psoriasis,1702.46,Approved,N/A
+0a4432c2-d8cc-4ce5-a623-dc79075bbda8,2025-03-19,727bac23-1948-41d0-a3d5-6861450bdacb,Ashley Choi,Dr. Mendez,Dermatology,Psoriasis,Treatment for Psoriasis,2949.13,Denied,Duplicate Claim
+889e59a4-f96d-4ca5-82f8-e9807629b01b,2025-09-02,8b148351-97d2-4ca3-a5c9-4dd5668d5233,Eric Combs,Dr. Marshall,Dermatology,Eczema,Treatment for Eczema,807.66,Denied,Incorrect Coding
+9d59929c-bdee-4786-b670-dd9112820397,2025-10-20,3a175ab4-74cb-4075-a357-a608ccecd802,Adam Stanley,Dr. Dean,Oncology,Lung Cancer,Treatment for Lung Cancer,4968.2,Denied,Incorrect Coding
+b9a81b1d-345c-47e3-95f2-ca2face63a27,2025-05-13,a72cf80e-399c-41b8-9287-b342c580ff34,Luis Humphrey,Dr. Marshall,Dermatology,Psoriasis,Treatment for Psoriasis,4491.98,Approved,N/A
+8fea7654-f16d-4827-a0c0-2194ccc3e88e,2025-11-05,c9bf1f59-32d4-4bd9-9c38-c6a4275f1a57,Veronica Lindsey,Dr. Garcia,Dermatology,Eczema,Treatment for Eczema,414.34,Approved,N/A
+6121fdb4-42c6-4928-ade1-c6c2928beefa,2025-05-02,8b090a14-b36a-4d41-ad4c-7141e19f29ed,Philip Valenzuela,Dr. Smith,General Practice,Diabetes Type 2,Treatment for Diabetes Type 2,1670.43,Approved,N/A
+6e1766f9-3ce6-496c-af18-1932c31b601f,2025-04-18,c0f43a82-c8bc-4b98-8218-6f49f08aaf02,Cynthia Clayton,Dr. Roberts,Dermatology,Acne,Treatment for Acne,2407.31,Approved,N/A
+8c983fb8-5b8c-4174-90a5-6d599043fb7b,2025-08-17,976ebd53-c984-4faf-bcbf-01d276721732,George Oconnor,Dr. Moore,Pediatrics,Otitis Media,Treatment for Otitis Media,1801.84,Approved,N/A
+37606225-e4fa-4311-a78e-ef7181dc6c51,2025-07-25,f98272b6-21ed-46b1-bd1e-7db4ebf1a078,Monica Garcia,Dr. Brown,Dermatology,Eczema,Treatment for Eczema,800.96,Approved,N/A
+a13bdc6f-e382-4c63-a6c6-01933c81c3a3,2025-09-30,2a0ea0b3-b9c5-4064-8f7f-fb4b29d32d29,Douglas Freeman,Dr. Lewis,Dermatology,Acne,Treatment for Acne,3350.15,Approved,N/A
+21ee54fc-7556-4b61-bd80-535caaecaaf9,2025-03-30,ee459494-451a-4e88-b248-671ff21adc9b,Michael Lawson,Dr. Perry,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,3210.46,Approved,N/A
+17a68622-49d4-4969-92a6-6ef641bdbcf8,2025-05-18,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Garcia,Dermatology,Psoriasis,Treatment for Psoriasis,3534.8,Pending,N/A
+2491bd4c-13b6-46f3-8057-b6bdb106300c,2025-08-07,d151f7bc-570f-409d-9050-1e320c5c0041,Joshua Martinez,Dr. Cochran,Oncology,Melanoma,Treatment for Melanoma,4500.0,Approved,N/A
+1de307a9-0e50-4cde-a8a1-d95f7a89e9d9,2025-08-26,8e6bb570-aef6-48e0-9fbd-4c0c0647e3b6,Nathaniel Tran,Dr. Howard,Oncology,Lung Cancer,Treatment for Lung Cancer,4509.85,Approved,N/A
+b3d8e9a9-458a-45a8-87f7-8c7a9c360164,2025-11-03,93470add-0a5c-4b9b-80e8-2cd1a5890409,Andrea Walker,Dr. Mcgee,Dermatology,Acne,Treatment for Acne,3076.95,Approved,N/A
+abfb0242-a03f-4da9-be88-405edc8db814,2025-01-19,6953cd5c-5109-47b0-ba5d-7eddca3874fb,James Leonard,Dr. Meyer,General Practice,Flu,Treatment for Flu,1772.2,Approved,N/A
+49708f5e-6dcf-4cd8-a252-dddc4d217641,2025-11-28,08dd03d4-dfe3-4dbf-a81b-40d57ad0f591,Robert Atkinson,Dr. Reyes,Cardiology,Atrial Fibrillation,Treatment for Atrial Fibrillation,988.74,Approved,N/A
+e2d9cf35-4b0c-4816-b018-a920c9a83177,2025-11-11,a46c8983-2f9e-49f0-9bd9-e1f4c8405567,David Meyer,Dr. Lewis,Dermatology,Acne,Treatment for Acne,3131.46,Denied,Incorrect Coding
+88037b5e-039f-4502-b9e8-f1a40b266683,2025-11-18,8b090a14-b36a-4d41-ad4c-7141e19f29ed,Philip Valenzuela,Dr. Johnson,Orthopedics,Fracture,Treatment for Fracture,3142.3,Approved,N/A
+c11590c5-8623-4ba6-a1b8-05953c778ead,2025-05-17,3c2794bc-ffd3-4fda-90c5-df70305d8bc0,Darrell Lopez,Dr. Roberts,Dermatology,Eczema,Treatment for Eczema,2134.41,Denied,Pre-auth Missing
+68b87543-7e8b-4495-830d-491817acb294,2025-12-02,601aae0c-c796-4f01-8cca-e4f952a443b6,Vanessa Cox,Dr. Avila,General Practice,Flu,Treatment for Flu,2562.17,Denied,Duplicate Claim
+ee6aed48-cc13-47a2-96ef-8dce61ec3fbb,2025-01-14,424c2fa7-963e-4fbe-a9a3-81e96beeabad,Lance Becker,Dr. Torres,Orthopedics,Arthritis,Treatment for Arthritis,4935.96,Denied,Incorrect Coding
