@@ -6,7 +6,7 @@ Ask questions like *"Show all denied claims"* or *"Why are claims being denied?"
 
 ---
 
-## � Table of Contents
+## 📑 Table of Contents
 - [What Does This App Do?](#-what-does-this-app-do)
 - [Requirements](#-requirements)
 - [Installation Guide](#-installation-guide)
@@ -93,8 +93,8 @@ The app uses AI from HuggingFace. You need a free account and token:
 
 #### Option B: Using Git (For tech-savvy users)
 ```bash
-git clone https://github.com/your-repo/claims-assistant.git
-cd claims-assistant
+git clone https://github.com/kedar-24/Abacus_Claims_RAG_Chatbot.git
+cd Abacus_Claims_RAG_Chatbot
 ```
 
 ---
@@ -172,7 +172,7 @@ When you open the app, you'll see:
 
 ---
 
-## � Troubleshooting
+## 🔧 Troubleshooting
 
 ### "Docker is not recognized"
 - Make sure Docker Desktop is installed and running
@@ -232,7 +232,7 @@ docker compose up
 
 ---
 
-## 👨‍� For Developers
+## 👨‍💻 For Developers
 
 <details>
 <summary>Click to expand developer documentation</summary>
