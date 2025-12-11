@@ -6,7 +6,7 @@ const ClaimTable = memo(({ claims }) => {
 
     if (!claims || claims.length === 0) return null;
 
-    const displayedClaims = useMemo(() => claims.slice(0, 50), [claims]);
+    const displayedClaims = claims;
 
     const formatAmount = (amount) => {
         const num = parseFloat(amount);
@@ -55,7 +55,6 @@ const ClaimTable = memo(({ claims }) => {
                 </h4>
                 <span className="text-xs text-slate-500 bg-slate-800/60 px-3 py-1 rounded-full">
                     {claims.length} records
-                    {claims.length > 50 && ' (showing 50)'}
                 </span>
             </div>
 

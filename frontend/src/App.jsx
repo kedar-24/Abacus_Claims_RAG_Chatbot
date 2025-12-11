@@ -156,13 +156,12 @@ const ChatInterface = () => {
       if (!response.ok) throw new Error(`Server error: ${response.status}`)
 
       const data = await response.json()
-      const limitedContext = data.context?.slice(0, 30) || [];
 
       const aiMsg = {
         id: Date.now() + 1,
         role: 'ai',
         content: data.answer,
-        sources: limitedContext
+        sources: data.context || []
       }
 
       setMessages(prev => [...prev, aiMsg].slice(-MAX_MESSAGES))
